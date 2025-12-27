@@ -1,13 +1,14 @@
 site_name: Regional DSGE
 
-
 nav:
   - Home: index.md
   - Model:
       - Equilibrium: model/equilibrium.md
   - Policy:
-      - Innovation Tax: policy/innovation-tax.md
+      - Overview: policy/index.md
+      - Innovation tax: policy/innovation-tax.md
 
 theme:
   name: material
+
 
