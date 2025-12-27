@@ -1,1 +1,4 @@
-
+/* Completely remove footer */
+.md-footer {
+  display: none;
+}
