@@ -12,8 +12,8 @@ The framework is evaluated against **three stringent criteria**:
 ### 1. Existence and stability of equilibrium
 The model must admit a well-defined equilibrium (unique or stable), ensuring that economic trade-offs are coherent and internally consistent.
 
-### 2. Bayesian-type evaluation
-The implied data-generating process must be statistically plausible and not rejected by observed macroeconomic evidence.
+### 2. Likelihood-based consistency
+The model must not be statistically rejected by the data. Bayesian estimation is employed solely to verify likelihood consistency and parameter plausibility, not to confer empirical validation on the structural model.
 
 ### 3. Empirical credibility via indirect inference (II)
 Model-generated dynamics are tested against observed data using indirect inference, ensuring that simulated behaviour reproduces key empirical features of the real economy.
