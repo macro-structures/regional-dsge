@@ -4,7 +4,7 @@ nav:
   - Home: index.md
   - Model:
       - Equilibrium: model/equilibrium.md
-      - Setup: model/setup.md
+      #- Setup: model/setup.md
   - Policy:
       - Overview: policy/index.md
       - Innovation tax: policy/innovation-tax.md
