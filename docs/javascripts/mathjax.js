@@ -1,6 +1,10 @@
 window.MathJax = {
   tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']],
-    displayMath: [['$$', '$$']]
+    inlineMath: [],        // ❗ 直接禁用 inline math
+    displayMath: [['$$','$$']],
+    processEscapes: false
+  },
+  options: {
+    skipHtmlTags: ['script','noscript','style','textarea','pre']
   }
 };
