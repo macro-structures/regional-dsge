@@ -24,14 +24,14 @@ $$
 
 to maximise expected lifetime utility
 
-$$
-\max E_0 \sum_{t=0}^{\infty} \beta^t \varepsilon^r_{i,t}
+
+$$ \max E_0 \sum_{t=0}^{\infty} \beta^t \varepsilon^r_{i,t}
 \left[
 \frac{C_{i,t}^{1-\rho_1}}{1-\rho_1}
 + \varepsilon^h_{i,t} \frac{H_{i,t}^{1-\rho_h}}{1-\rho_h}
 + \varepsilon^l_{i,t} \frac{x_{i,t}^{1-\rho_2}}{1-\rho_2}
-\right].
-$$
+\right]. $$
+
 
 ### Budget Constraint
 
