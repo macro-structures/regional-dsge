@@ -13,7 +13,7 @@ Cardiff, United Kingdom
 
 [Cardiff University Official Profile](https://profiles.cardiff.ac.uk/staff/huangq24)
 
-[GitHub](https://github.com/macro-structures)
+<!-- [GitHub](https://github.com/macro-structures) -->
 
 ## Research Collaboration
 
