@@ -1,13 +1,18 @@
 site_name: HQ Regional Study - DSGE Model
 
+
 nav:
   - Home: index.md
+  - About Me: about.md
+  - Research: research.md
   - Model:
       - Equilibrium: model/equilibrium.md
-      #- Setup: model/setup.md
   - Policy:
       - Overview: policy/index.md
-      - Innovation tax: policy/innovation-tax.md
+      - Innovation Tax: policy/innovation-tax.md
+  - Teaching: teaching.md
+  - Contact: contact.md
+
 
 theme:
   name: material
