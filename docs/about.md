@@ -1,6 +1,10 @@
+
 # About Me
 
+![Qinhua Huang](images/QinhuaHuang_AboutMe.jpg){ width="230" align=right }
+
 ## Qinhua Huang, FHEA
+
 
 **PhD Candidate in Economics**  
 Cardiff Business School | Cardiff University
