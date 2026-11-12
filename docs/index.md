@@ -1,5 +1,30 @@
 # HQ Regional Study - DSGE Model
 
+
+## Qinhua Huang, FHEA
+
+**PhD Candidate in Economics**  
+Cardiff Business School | Cardiff University
+
+Regional Macroeconomics | Productivity | Innovation | DSGE
+
+I study why economic growth differs across UK regions
+and how fiscal and innovation policies shape regional
+productivity, inequality, and economic development.
+
+My research develops a three-region DSGE model of
+the UK, distinguishing the North, South, and Wales.
+
+[About Me](about.md) |
+[Official University Profile](https://profiles.cardiff.ac.uk/staff/huangq24) |
+[Policy Simulations](policy/index.md)
+
+---
+
+
+
+
+
 ## Purpose and Methodology
 
 Understanding the regional economy does not require persuasive narratives or ad-hoc explanations.  
