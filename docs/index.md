@@ -1,4 +1,4 @@
-# Regional DSGE
+# HQ Regional Study - DSGE Model
 
 ## Purpose and Methodology
 
