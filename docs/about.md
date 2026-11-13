@@ -11,7 +11,8 @@
 ## Qinhua Huang, FHEA
 
 
-**PhD Candidate in Economics**  
+**PhD 4th year student, researcher in Economics**  
+Funded by Cardiff Business School (CARBS) Studentship
 Cardiff Business School | Cardiff University
 
 I am a PhD researcher in Economics at Cardiff Business School, Cardiff University. My research focuses on regional macroeconomics, productivity disparities, innovation-led growth, and the heterogeneous effects of economic policy across UK regions.
