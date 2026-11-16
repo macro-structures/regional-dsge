@@ -1,43 +1,39 @@
-
 # About Me
-
-
 
 <img src="../image/QinhuaHuang_AboutMe.jpg"
      alt="Qinhua Huang"
      width="230"
-     style="float:right; margin:0 0 20px 25px; border-radius:8px;">
-
-
+     style="float:right; margin:0 0 20px 28px; border-radius:10px;">
 
 ## Qinhua Huang, FHEA
 
+**PhD Researcher in Economics | Cardiff University**  
+**Fellow of the Higher Education Academy (FHEA)**  
+Cardiff Business School, Cardiff University
 
-**PhD 4th year student, researcher in Economics**  
-Funded by Cardiff Business School (CARBS) Studentship
-Cardiff Business School | Cardiff University
+I am a PhD researcher in Economics at Cardiff University, specialising in **regional macroeconomics, productivity disparities, and the transmission of economic policy across UK regions**.
 
-I am a PhD researcher in Economics at Cardiff Business School, Cardiff University. My research focuses on regional macroeconomics, productivity disparities, innovation-led growth, and the heterogeneous effects of economic policy across UK regions.
+My doctoral research develops a three-region Dynamic Stochastic General Equilibrium (DSGE) model of the United Kingdom, distinguishing the North, South, and Wales. Using structural macroeconomic modelling and **indirect inference**, I investigate why regional economic disparities persist and how innovation, taxation, labour markets, and housing influence economic performance.
 
-My doctoral research develops a three-region Dynamic Stochastic General Equilibrium (DSGE) model of the United Kingdom, distinguishing the North, the South, and Wales. I use structural macroeconomic modelling and indirect inference to investigate regional economic disparities and the transmission of fiscal and innovation policies.
-
-My broader research interest is understanding how economic policies can improve regional productivity and promote more balanced economic growth.
+A central question motivating my research is whether nationwide policies generate uneven regional outcomes, and whether regionally targeted interventions can help narrow the economic gap between Wales and the rest of the UK.
 
 ## Research Interests
 
 - Regional Macroeconomics and Spatial Inequality
-- Dynamic Stochastic General Equilibrium (DSGE) Models
-- Productivity, Innovation and Economic Growth
-- Fiscal Policy and Regional Policy Transmission
-- Structural Estimation and Indirect Inference
+- DSGE Modelling and Structural Econometrics
+- Indirect Inference and Model Evaluation
+- Innovation, Productivity and Economic Growth
+- Fiscal Devolution and Regional Policy Transmission
 
 ## Doctoral Research
 
 **Regional Inequality, Innovation and Policy Transmission in the United Kingdom**
 
-My research examines how national and regional policy interventions affect economic performance across the North, South, and Wales.
+My research combines theoretical modelling, empirical evaluation, and policy simulations to examine the mechanisms driving regional economic divergence.
 
-The project uses a structural three-region DSGE framework to investigate the mechanisms through which innovation, taxation, labour markets, and housing affect regional growth and productivity.
+The model provides a framework for exploring how national and devolved policy interventions may affect output, productivity, employment, and regional economic disparities.
+
+Explore my [interactive regional policy simulations](policy/).
 
 **Supervisory team**
 
@@ -48,19 +44,19 @@ The project uses a structural three-region DSGE framework to investigate the mec
 
 ## Teaching
 
-I am a Fellow of the Higher Education Academy (FHEA) and an economics tutor at Cardiff Business School.
+I am a **Fellow of the Higher Education Academy (FHEA)** and an economics tutor at Cardiff Business School.
 
-My teaching experience spans microeconomics, macroeconomics, econometrics, mathematics and statistics for economists, and money, banking and finance.
+My teaching covers microeconomics, macroeconomics, econometrics, mathematical and statistical methods for economists, and money, banking and finance.
 
 ## Education and Recognition
 
-- Cardiff Business School Doctoral Scholarship (2023–2026)
+- Cardiff Business School PhD Studentship (2023–2026)
 - MRes in Economics (Distinction), Cardiff University
 - MSc in Financial Economics (Distinction), Cardiff University
 - Fellow of the Higher Education Academy (FHEA)
 
 ## Academic Profile
 
-[Official Cardiff University Profile](https://profiles.cardiff.ac.uk/staff/huangq24)
+[Official Cardiff University Staff Profile](https://profiles.cardiff.ac.uk/staff/huangq24)
 
-[Regional Policy Simulations](policy/index.md)
+[Explore the Regional Policy Studio](policy/)
