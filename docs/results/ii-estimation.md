@@ -48,7 +48,7 @@ Here:
 
 ## Joint Wald Statistic Surface
 
-![Joint Wald Statistic Surface](../assets/results/ii_estimation_original.png)
+![Joint Wald Statistic Surface](../assets/ii_estimation_original.png)
 
 *Figure 1. Three-dimensional simulated transformed Wald-distance surface. The red marker identifies the observed-data point, while the grey plane indicates the reference threshold shown in the original output.*
 
@@ -59,13 +59,13 @@ The threshold shown is a visual reference and requires
 verification against the specific test transformation
 and calibration.
 
-[View high-resolution PDF](../assets/results/ii_estimation_original.pdf)
+[View high-resolution PDF](../assets/ii_estimation_original.pdf)
 
 ---
 
 ## Simulated Parameter Distributions
 
-![Simulated Parameter Distributions](../assets/results/ii_histograms.png)
+![Simulated Parameter Distributions](../assets/ii_histograms.png)
 
 *Figure 2. Simulated distributions of four coefficients entering the Wald statistic. Green lines indicate observed sample values; red dashed lines indicate the empirical 2.5th and 97.5th percentiles.*
 
@@ -77,7 +77,7 @@ These distributions provide useful diagnostics for
 assessing the model's ability to reproduce empirical
 auxiliary-model features.
 
-[View high-resolution PDF](../assets/results/ii_histograms.pdf)
+[View high-resolution PDF](../assets/ii_histograms.pdf)
 
 ---
 
