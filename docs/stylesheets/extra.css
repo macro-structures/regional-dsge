@@ -38,3 +38,48 @@
 
   pointer-events: none;
 }
+
+
+
+
+
+
+/* Policy Lab research-status panel */
+
+.policy-lab-notice {
+  border: 1px solid #d4deed;
+  border-left: 4px solid #315ca1;
+  border-radius: 8px;
+  background: #f7f9fd;
+  padding: 18px 22px;
+  margin: 24px 0;
+}
+
+.policy-lab-notice strong {
+  color: #203b69;
+  font-size: 0.95rem;
+}
+
+.policy-lab-notice p {
+  color: #475569;
+  font-size: 0.84rem;
+  line-height: 1.7;
+  margin-bottom: 0;
+}
+
+[data-md-color-scheme="slate"]
+.policy-lab-notice {
+  background: #1b2637;
+  border-color: #425574;
+  border-left-color: #89b5f4;
+}
+
+[data-md-color-scheme="slate"]
+.policy-lab-notice strong {
+  color: #c5d9fa;
+}
+
+[data-md-color-scheme="slate"]
+.policy-lab-notice p {
+  color: #cbd5e1;
+}
