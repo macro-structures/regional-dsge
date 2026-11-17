@@ -2,3 +2,39 @@
 .md-footer {
   display: none;
 }
+
+
+
+
+
+
+/* HQ Regional DSGE watermark */
+
+.research-figure {
+  position: relative;
+  display: block;
+  width: 100%;
+}
+
+.research-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.research-figure::after {
+  content: "© 2026 Qinhua Huang | HQ Regional DSGE";
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+
+  font-size: 13px;
+  font-weight: 600;
+  color: rgba(40, 40, 40, 0.48);
+
+  background: rgba(255, 255, 255, 0.65);
+  padding: 5px 9px;
+  border-radius: 4px;
+
+  pointer-events: none;
+}
