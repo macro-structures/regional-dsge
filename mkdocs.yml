@@ -15,8 +15,9 @@ nav:
       - Variance & Historical Decomposition: results/decomposition.md
       - Impulse Response Functions: results/irfs.md
 
-  - Policy: policy/index.md
-  - Policy Briefing: policybriefing/index.md
+  - Policy: 
+      - Interactive Policy Studio: policy/index.md
+      - Policy Briefing: policybriefing/index.md
   - Teaching: teaching.md
   - Contact: contact.md
 
