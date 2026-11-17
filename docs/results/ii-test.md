@@ -89,7 +89,7 @@ apply identically to both GDP configurations.
 
 ### Original MATLAB Output
 
-![Indirect Inference Test Results](../assets/results/ii_test_screenshot.png)
+![Indirect Inference Test Results](../assets/ii_test_screenshot.png)
 
 ## 5. Statistical Power of the II Test
 
