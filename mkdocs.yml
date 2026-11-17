@@ -1,6 +1,11 @@
 
-site_name: HQ Regional Study - DSGE Model
+site_name: HQ Regional DSGE | Research & Policy Lab
+site_description: >
+  An independent academic research platform for
+  regional macroeconomic modelling, DSGE policy
+  experiments and economic analysis.
 
+  
 nav:
   - Home: index.md
   - About Me: about.md
@@ -15,7 +20,7 @@ nav:
       - Variance & Historical Decomposition: results/decomposition.md
       - Impulse Response Functions: results/irfs.md
 
-  - Policy: 
+  - Policy Lab: 
       - Interactive Policy Studio: policy/index.md
       - Policy Briefing: policybriefing/index.md
   - Teaching: teaching.md
