@@ -9,8 +9,17 @@ This research lab uses a three-region Dynamic Stochastic General Equilibrium (DS
 
 The lab examines policy mechanisms, regional spillovers, adjustment dynamics and the potential trade-offs between UK-wide and devolved policy interventions.
 
-**Research status:** Exploratory research · Work in progress · Model-conditional simulations
-
+<div class="policy-lab-notice">
+  <strong>Research Status · Exploratory</strong>
+  <p>
+    This is an independent academic policy experiment lab.
+    The simulations explore hypothetical policy scenarios
+    under specified model assumptions. Results are
+    preliminary and model-conditional, not official
+    forecasts, validated policy impact assessments,
+    or estimates of implemented policy effects.
+  </p>
+</div>
 !!! info "About this Policy Lab"
     This is an independent academic research platform, not an official government forecasting or policy evaluation tool.
 
