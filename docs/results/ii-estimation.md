@@ -6,7 +6,7 @@ Indirect inference (II) compares empirical auxiliary statistics with statistics 
 
 Here, \(\theta\) is the structural parameter vector, \(\beta\) denotes auxiliary-model coefficients, and \(W\) is a weighting matrix. The exact auxiliary model and weighting procedure must be documented for each experiment.
 
-[View the supplied II estimation PDF](../assets/results/ii_estimation_original.pdf). The supplied PDF does not expose a usable text-based parameter table in this release. **Do not interpret it as a verified set of estimates until the original table and standard errors have been checked.**
+[View the supplied II estimation PDF](../assets/ii_estimation_original.pdf). The supplied PDF does not expose a usable text-based parameter table in this release. **Do not interpret it as a verified set of estimates until the original table and standard errors have been checked.**
 
 ## Recommended additions before publication
 
