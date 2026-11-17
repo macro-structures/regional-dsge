@@ -14,13 +14,13 @@ The following figure presents the dynamic responses
 of aggregate and regional macroeconomic variables.
 
 <iframe
-  src="/assets/results/innovation_irfs.pdf"
+  src="/assets/innovation_irfs.pdf"
   width="100%"
   height="750px"
   style="border: 1px solid #ddd; border-radius: 6px;">
 </iframe>
 
-[Open full-resolution figure](../assets/results/innovation_irfs.pdf)
+[Open full-resolution figure](../assets/innovation_irfs.pdf)
 
 ## 2. Wages and Sectoral Labour
 
@@ -29,13 +29,13 @@ regional wages and sectoral labour following an
 innovation-cost reduction.
 
 <iframe
-  src="/assets/results/wages_labour_irfs.pdf"
+  src="/assets/wages_labour_irfs.pdf"
   width="100%"
   height="750px"
   style="border: 1px solid #ddd; border-radius: 6px;">
 </iframe>
 
-[Open full-resolution figure](../assets/results/wages_labour_irfs.pdf)
+[Open full-resolution figure](../assets/wages_labour_irfs.pdf)
 
 ## 3. Interpretation and Policy Implications
 
