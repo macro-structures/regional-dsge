@@ -1,17 +1,18 @@
-## Featured policy briefing
-*Policy research on innovation, fiscal devolution and regional economic adjustment in the United Kingdom.*
 
-This page presents an exploratory two-page policy briefing alongside an interactive policy studio. The analysis uses a three-region DSGE model distinguishing **North, South and Wales**. The results are **model-conditional scenarios**, not official forecasts or causal estimates of implemented policies.
+# Policy Briefings
 
+Exploratory policy research using a three-region DSGE model of North, South and Wales.
 
-
-
+## Featured Briefing
 
 ### Which Devolution Powers Best Unlock Wales’s Innovation Potential?
 
 **Qinhua Huang · Cardiff University · 16 November 2026**
 
-The two-page briefing examines how a common innovation-cost shock can produce different regional responses, and how Wales-only policy proxies compare with UK-wide interventions under a specified first-year fiscal-cost assumption. It distinguishes the objective of **Welsh convergence** from **aggregate UK output**.
+This two-page briefing explores how innovation-related policy shocks affect regional economic adjustment, comparing Wales-only and UK-wide interventions under a specified first-year fiscal-cost assumption. It examines the trade-off between Welsh economic convergence and aggregate UK output.
+
+**Research status:** Preliminary, model-conditional simulations; not official forecasts or validated policy impact estimates.
+
 
 [**Download the complete two-page policy briefing (PDF)**](../assets/policy/wales_innovation_policy_brief.pdf)
 
