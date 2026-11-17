@@ -1,9 +1,20 @@
-# Regional Policy Simulations
+# Experiment Lab - Regional Policy Simulations
 
-*Policy research on innovation, fiscal devolution and regional economic adjustment in the United Kingdom.*
 
-This page presents an exploratory two-page policy briefing alongside an interactive policy studio. The analysis uses a three-region DSGE model distinguishing **North, South and Wales**. The results are **model-conditional scenarios**, not official forecasts or causal estimates of implemented policies.
 
+
+*Exploring regional economic policy through model-based experiments.*
+
+This research lab uses a three-region Dynamic Stochastic General Equilibrium (DSGE) framework to investigate how alternative economic policies transmit across North, South and Wales.
+
+The lab examines policy mechanisms, regional spillovers, adjustment dynamics and the potential trade-offs between UK-wide and devolved policy interventions.
+
+**Research status:** Exploratory research · Work in progress · Model-conditional simulations
+
+!!! info "About this Policy Lab"
+    This is an independent academic research platform, not an official government forecasting or policy evaluation tool.
+
+    The experiments are designed to explore economic mechanisms and compare hypothetical policy scenarios under specified model assumptions. Results should not be interpreted as causal estimates of implemented policies or validated predictions of future economic outcomes.
 
 
 ## Interactive Policy Studio
