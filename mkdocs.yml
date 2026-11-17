@@ -1,23 +1,37 @@
-site_name: HQ Regional Study - DSGE Model
 
+site_name: HQ Regional Study - DSGE Model
 
 nav:
   - Home: index.md
   - About Me: about.md
   - Research: research.md
   - Model: model/setup.md
+
+  - Model Results:
+      - Overview: results/index.md
+      - II Estimation: results/ii-estimation.md
+      - II Specification Tests: results/ii-tests.md
+      - Monte Carlo Power Analysis: results/power.md
+      - Variance & Historical Decomposition: results/decomposition.md
+      - Impulse Response Functions: results/irfs.md
+
   - Policy: policy/index.md
   - Teaching: teaching.md
   - Contact: contact.md
 
-
 theme:
   name: material
-
+  features:
+    - navigation.expand
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
 
 extra:
   generator: false
+
 extra_css:
   - stylesheets/extra.css
+
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
