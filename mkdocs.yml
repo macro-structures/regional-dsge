@@ -24,8 +24,8 @@ nav:
 theme:
   name: material
   features:
-    - navigation.expand
-    - navigation.sections
+    # - navigation.expand
+    #- navigation.sections
     - navigation.top
     - content.code.copy
 
