@@ -1,0 +1,48 @@
+Shock,Mechanism
+vpc_N,Productivity
+vph_N,Sectoral supply
+vnc_N,Sectoral supply
+vnh_N,Sectoral supply
+vr_N,Regional demand
+vh_N,Regional demand
+vw_N,Labour & population
+v_errorn_N,Measurement & residuals
+vpc_S,Productivity
+vph_S,Sectoral supply
+vnc_S,Sectoral supply
+vnh_S,Sectoral supply
+vr_S,Regional demand
+vh_S,Regional demand
+vw_S,Labour & population
+v_errorn_S,Measurement & residuals
+vpc_W,Productivity
+vph_W,Sectoral supply
+vnc_W,Sectoral supply
+vnh_W,Sectoral supply
+vr_W,Regional demand
+vh_W,Regional demand
+vw_W,Labour & population
+v_errorn_W,Measurement & residuals
+v_ex,External
+v_em,External
+v_gov,Policy
+v_error1,Measurement & residuals
+v_me1,Measurement & residuals
+v_me2,Measurement & residuals
+v_me3,Measurement & residuals
+v_me4,Measurement & residuals
+v_me5,Measurement & residuals
+v_me6,Measurement & residuals
+v_me7,Measurement & residuals
+v_me8,Measurement & residuals
+vpop_N,Labour & population
+vpop_S,Labour & population
+vpop_W,Labour & population
+v_cstar,External
+v_rf,External
+v_tf,Policy
+v_tl,Policy
+v_unr,Policy
+v_tau,Policy
+v_ub,Policy
+v_WRIT,Policy
