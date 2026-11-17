@@ -25,28 +25,28 @@ Here, $\boldsymbol{\theta}$ is the structural parameter vector, $\boldsymbol{\be
 ## Joint Wald statistic surface
 
 <figure class="research-figure">
-  <a href="/assets/results/ii_estimation_original.pdf" target="_blank" rel="noopener">
-    <img src="/assets/results/ii_estimation_original.png" alt="Three-dimensional simulated transformed Wald distance surface with the observed-data point and a reference threshold" loading="lazy" style="width:100%;height:auto;" />
+  <a href="/assets/ii_estimation_original.pdf" target="_blank" rel="noopener">
+    <img src="/assets/ii_estimation_original.png" alt="Three-dimensional simulated transformed Wald distance surface with the observed-data point and a reference threshold" loading="lazy" style="width:100%;height:auto;" />
   </a>
   <figcaption><strong>Figure 1.</strong> Joint simulated features and transformed Wald-distance surface. The red marker identifies the observed-data point; the grey plane shows the reference threshold labelled in the original figure. Click for the high-resolution PDF.</figcaption>
 </figure>
 
 The surface illustrates how the transformed discrepancy measure varies over the two displayed simulation dimensions. This figure is a visual diagnostic; its labelled threshold should not be interpreted as a conventional Wald critical value without checking the transformation and test calibration.
 
-[View Figure 1 as PDF](../assets/results/ii_estimation_original.pdf)
+[View Figure 1 as PDF](../assets/ii_estimation_original.pdf)
 
 ## Simulated parameter distributions
 
 <figure class="research-figure">
-  <a href="/assets/results/ii_histograms.pdf" target="_blank" rel="noopener">
-    <img src="/assets/results/ii_histograms.png" alt="Four simulated parameter histograms with empirical quantile markers and observed sample markers" loading="lazy" style="width:100%;height:auto;" />
+  <a href="/assets/ii_histograms.pdf" target="_blank" rel="noopener">
+    <img src="/assets/ii_histograms.png" alt="Four simulated parameter histograms with empirical quantile markers and observed sample markers" loading="lazy" style="width:100%;height:auto;" />
   </a>
   <figcaption><strong>Figure 2.</strong> Simulated distributions for four coefficients entering the Wald statistic. Green lines show the sample values; dashed red lines mark the 2.5th and 97.5th empirical percentiles. Click for the high-resolution PDF.</figcaption>
 </figure>
 
 These plots show the location of the sample coefficients relative to their simulated distributions. The figure describes coefficients entering the test statistic; it should not automatically be read as confidence intervals for all structural parameters of the DSGE model.
 
-[View Figure 2 as PDF](../assets/results/ii_histograms.pdf)
+[View Figure 2 as PDF](../assets/ii_histograms.pdf)
 
 ## Further empirical evaluation
 
