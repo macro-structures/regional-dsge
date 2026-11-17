@@ -8,3 +8,16 @@ window.MathJax = {
     skipHtmlTags: ['script','noscript','style','textarea','pre']
   }
 };
+
+
+
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']],
+    processEscapes: true
+  },
+  options: { ignoreHtmlClass: '.*', processHtmlClass: 'arithmatex' }
+};
+
+document$.subscribe(() => { MathJax.typesetPromise(); });
