@@ -20,10 +20,6 @@ The lab examines policy mechanisms, regional spillovers, adjustment dynamics and
     or estimates of implemented policy effects.
   </p>
 </div>
-!!! info "About this Policy Lab"
-    This is an independent academic research platform, not an official government forecasting or policy evaluation tool.
-
-    The experiments are designed to explore economic mechanisms and compare hypothetical policy scenarios under specified model assumptions. Results should not be interpreted as causal estimates of implemented policies or validated predictions of future economic outcomes.
 
 
 ## Interactive Policy Studio
