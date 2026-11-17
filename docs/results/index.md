@@ -4,7 +4,7 @@ This section reports preliminary quantitative results from the three-region Nort
 
 | Research question | Evidence | Page |
 |---|---|---|
-| How are structural parameters estimated? | Indirect inference | [Estimation](estimation.md) |
+| How are structural parameters estimated? | Indirect inference | [Estimation](ii-estimation.md) |
 | Is the model statistically consistent with the chosen auxiliary statistics? | Wald specification test | [Specification tests](specification.md) |
 | Can the test detect economically meaningful departures from the null? | Monte Carlo power | [Power analysis](power.md) |
 | Which shocks explain regional volatility and historical dynamics? | FEVD and historical decomposition | [Decompositions](decomposition.md) |
