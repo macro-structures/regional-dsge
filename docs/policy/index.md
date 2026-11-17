@@ -1,5 +1,4 @@
-# Experiment Lab - Regional Policy Simulations
-
+# Experiment Lab - Regional Policy Simulator
 
 
 
