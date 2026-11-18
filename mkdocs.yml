@@ -1,0 +1,108 @@
+
+site_name: HQ Regional DSGE | Research & Policy Lab
+site_description: >
+  An independent academic research platform for
+  regional macroeconomic modelling, DSGE policy
+  experiments and economic analysis.
+
+  
+nav:
+  - Home: index.md
+  - About Me: about.md
+  - Research: research.md
+  - Model: model/setup.md
+
+  - Model Results:
+      - Overview: results/index.md
+      - II Estimation: results/ii-estimation.md
+      - II Specification Tests: results/ii-tests.md
+      - Monte Carlo Power Analysis: results/power.md
+      - Variance & Historical Decomposition: results/decomposition.md
+      - Impulse Response Functions: results/irfs.md
+
+  - Policy Lab: 
+      - Interactive Policy Studio: policy/index.md
+      - Policy Briefing: policybriefing/index.md
+  - Teaching: teaching.md
+  - Contact: contact.md
+
+theme:
+  name: material
+  features:
+    # - navigation.expand
+    #- navigation.sections
+    - navigation.top
+    - content.code.copy
+
+extra:
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
+
+ 
+
+
+
+
+markdown_extensions:
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+
+
+
+
+  
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          name: English
+          default: true
+        - locale: cy
+          name: Cymraeg
+          nav_translations:
+            Home: Hafan
+            About Me: Amdanaf i
+            Research: Ymchwil
+            Model: Model
+            Model Results: Canlyniadau'r Model
+            Overview: Trosolwg
+            II Estimation: Amcangyfrif II
+            II Specification Tests: Profion Manyleb II
+            Monte Carlo Power Analysis: Dadansoddiad Pŵer Monte Carlo
+            Variance & Historical Decomposition: Dadelfennu Amrywiant a Hanesyddol
+            Impulse Response Functions: Swyddogaethau Ymateb i Ysgogiad
+            Policy Lab: Labordy Polisi
+            Interactive Policy Studio: Stiwdio Polisi Ryngweithiol
+            Policy Briefing: Briff Polisi
+            Teaching: Addysgu
+            Contact: Cysylltu
+        - locale: zh
+          name: 简体中文
+          nav_translations:
+            Home: 首页
+            About Me: 关于我
+            Research: 学术研究
+            Model: 模型
+            Model Results: 模型结果
+            Overview: 概览
+            II Estimation: 间接推断估计
+            II Specification Tests: 间接推断设定检验
+            Monte Carlo Power Analysis: 蒙特卡洛检验功效分析
+            Variance & Historical Decomposition: 方差分解与历史分解
+            Impulse Response Functions: 脉冲响应函数
+            Policy Lab: 政策实验室
+            Interactive Policy Studio: 交互式政策模拟平台
+            Policy Briefing: 政策简报
+            Teaching: 教学
+            Contact: 联系方式
+
