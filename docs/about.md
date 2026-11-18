@@ -1,10 +1,9 @@
 
-
 # About Me
 
 <div class="academic-profile" markdown="block">
 
-<div class="academic-profile-text" markdown="block">
+<div class="academic-profile-heading" markdown="block">
 
 ## Qinhua Huang, FHEA
 
@@ -13,17 +12,21 @@ Cardiff Business School · Cardiff University
 
 Fellow of the Higher Education Academy (FHEA)
 
+</div>
+
+<div class="academic-profile-photo">
+<img src="../image/QinhuaHuang_AboutMe1.jpg"
+     alt="Qinhua Huang">
+</div>
+
+<div class="academic-profile-bio" markdown="block">
+
 I am a PhD researcher specialising in **regional macroeconomics, productivity disparities, and economic policy transmission across UK regions**.
 
 My doctoral research develops a three-region Dynamic Stochastic General Equilibrium (DSGE) model of the UK, distinguishing the North, South, and Wales. Using structural macroeconomic modelling and **indirect inference**, I investigate regional economic disparities and the role of innovation, taxation, labour markets, and housing.
 
 A central question motivating my research is whether nationwide policies generate uneven regional outcomes, and whether regionally targeted interventions can help narrow the economic gap between Wales and the rest of the UK.
 
-</div>
-
-<div class="academic-profile-photo">
-<img src="../image/QinhuaHuang_AboutMe1.jpg"
-     alt="Qinhua Huang">
 </div>
 
 </div>
