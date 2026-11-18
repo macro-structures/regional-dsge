@@ -1,21 +1,29 @@
+
 # About Me
 
-<img src="../image/QinhuaHuang_AboutMe1.jpg"
-     alt="Qinhua Huang"
-     width="230"
-     style="float:right; margin:0 0 20px 28px; border-radius:10px;">
+<div class="academic-profile">
+  <div class="academic-profile-text">
 
 ## Qinhua Huang, FHEA
 
-**PhD Researcher in Economics | Cardiff University**  
-**Fellow of the Higher Education Academy (FHEA)**  
-Cardiff Business School, Cardiff University
+**PhD Researcher in Economics**  
+Cardiff Business School · Cardiff University
 
-I am a PhD researcher in Economics at Cardiff University, specialising in **regional macroeconomics, productivity disparities, and the transmission of economic policy across UK regions**.
+Fellow of the Higher Education Academy (FHEA)
 
-My doctoral research develops a three-region Dynamic Stochastic General Equilibrium (DSGE) model of the United Kingdom, distinguishing the North, South, and Wales. Using structural macroeconomic modelling and **indirect inference**, I investigate why regional economic disparities persist and how innovation, taxation, labour markets, and housing influence economic performance.
+I am a PhD researcher specialising in **regional macroeconomics, productivity disparities, and economic policy transmission across UK regions**.
 
-A central question motivating my research is whether nationwide policies generate uneven regional outcomes, and whether regionally targeted interventions can help narrow the economic gap between Wales and the rest of the UK.
+My doctoral research develops a three-region Dynamic Stochastic General Equilibrium (DSGE) model of the UK, distinguishing the North, South, and Wales. Using structural macroeconomic modelling and **indirect inference**, I investigate regional economic disparities and the role of innovation, taxation, labour markets, and housing.
+
+A central question is whether nationwide policies generate uneven regional outcomes, and whether regionally targeted interventions can help narrow the economic gap between Wales and the rest of the UK.
+
+  </div>
+
+  <div class="academic-profile-photo">
+    <img src="../image/QinhuaHuang_AboutMe1.jpg"
+         alt="Qinhua Huang">
+  </div>
+</div>
 
 ## Research Interests
 
@@ -33,9 +41,9 @@ My research combines theoretical modelling, empirical evaluation, and policy sim
 
 The model provides a framework for exploring how national and devolved policy interventions may affect output, productivity, employment, and regional economic disparities.
 
-Explore my [interactive regional policy simulations](policy/).
+[Explore my interactive regional policy simulations](policy/).
 
-**Supervisory team**
+**Supervisory Team**
 
 - Professor Patrick Minford
 - Professor Max Munday
