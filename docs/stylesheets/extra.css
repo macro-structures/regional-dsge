@@ -1,0 +1,254 @@
+/* Completely remove footer */
+.md-footer {
+  display: none;
+}
+
+
+
+
+
+
+/* HQ Regional DSGE watermark */
+
+.research-figure {
+  position: relative;
+  display: block;
+  width: 100%;
+}
+
+.research-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.research-figure::after {
+  content: "© 2026 Qinhua Huang | HQ Regional DSGE";
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+
+  font-size: 13px;
+  font-weight: 600;
+  color: rgba(40, 40, 40, 0.48);
+
+  background: rgba(255, 255, 255, 0.65);
+  padding: 5px 9px;
+  border-radius: 4px;
+
+  pointer-events: none;
+}
+
+
+
+
+
+
+/* Policy Lab research-status panel */
+
+.policy-lab-notice {
+  border: 1px solid #d4deed;
+  border-left: 4px solid #315ca1;
+  border-radius: 8px;
+  background: #f7f9fd;
+  padding: 18px 22px;
+  margin: 24px 0;
+}
+
+.policy-lab-notice strong {
+  color: #203b69;
+  font-size: 0.95rem;
+}
+
+.policy-lab-notice p {
+  color: #475569;
+  font-size: 0.84rem;
+  line-height: 1.7;
+  margin-bottom: 0;
+}
+
+[data-md-color-scheme="slate"]
+.policy-lab-notice {
+  background: #1b2637;
+  border-color: #425574;
+  border-left-color: #89b5f4;
+}
+
+[data-md-color-scheme="slate"]
+.policy-lab-notice strong {
+  color: #c5d9fa;
+}
+
+[data-md-color-scheme="slate"]
+.policy-lab-notice p {
+  color: #cbd5e1;
+}
+
+
+
+
+
+
+/* =====================================
+   About Me — Desktop Layout
+   ===================================== */
+
+.academic-profile {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 240px;
+  column-gap: 36px;
+  align-items: start;
+  margin: 22px 0 42px;
+}
+
+/* Name and academic position */
+.academic-profile-heading {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.academic-profile-heading h2 {
+  margin-top: 0;
+  margin-bottom: 18px;
+}
+
+/* Research biography */
+.academic-profile-bio {
+  grid-column: 1;
+  grid-row: 2;
+}
+
+.academic-profile-bio p {
+  line-height: 1.7;
+  margin-bottom: 16px;
+}
+
+/* Portrait on the right */
+.academic-profile-photo {
+  grid-column: 2;
+  grid-row: 1 / 3;
+}
+
+.academic-profile-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+
+/* =====================================
+   About Me — Mobile Layout
+   ===================================== */
+
+@media screen and (max-width: 760px) {
+
+  .academic-profile {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 16px 0 32px;
+  }
+
+  /* 1. Name and position */
+  .academic-profile-heading {
+    order: 1;
+  }
+
+  .academic-profile-heading h2 {
+    margin-top: 0;
+    margin-bottom: 12px;
+  }
+
+  /* 2. Portrait */
+  .academic-profile-photo {
+    order: 2;
+    align-self: center;
+    width: 190px;
+    max-width: 100%;
+  }
+
+  /* 3. Research biography */
+  .academic-profile-bio {
+    order: 3;
+  }
+
+  .academic-profile-bio p {
+    line-height: 1.65;
+    margin-bottom: 14px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Mobile: show portrait before long biography */
+@media screen and (max-width: 760px) {
+
+  .academic-profile {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+
+  /* Allow text elements to participate in layout */
+  .academic-profile-text {
+    display: contents;
+  }
+
+  /* Name and affiliation first */
+  .academic-profile-text h2 {
+    order: 1;
+    margin: 0;
+  }
+
+  .academic-profile-text p:first-of-type {
+    order: 2;
+  }
+
+  /* Portrait immediately after introduction */
+  .academic-profile-photo {
+    order: 3;
+    width: 180px;
+    max-width: 100%;
+    align-self: center;
+    margin: 6px 0 12px;
+  }
+
+  .academic-profile-photo img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  /* Remaining biography */
+  .academic-profile-text p {
+    order: 4;
+  }
+}
+
+/* Compact language menu inside the MkDocs top navigation */
+.hq-lang-switch { position: relative; flex: 0 0 auto; margin-left: .5rem; align-self: center; font-size: .75rem; }
+.hq-lang-trigger { background: rgba(255,255,255,.14); color: white; border: 1px solid rgba(255,255,255,.38); border-radius: 999px; padding: .3rem .62rem; font: inherit; font-weight: 700; letter-spacing: .02em; cursor: pointer; white-space: nowrap; }
+.hq-lang-trigger:hover, .hq-lang-trigger[aria-expanded="true"] { background: rgba(255,255,255,.27); }
+.hq-lang-menu { position: absolute; top: calc(100% + .65rem); right: 0; width: 11.5rem; padding: .38rem; border: 1px solid #d8e0eb; border-radius: .65rem; background: #fff; box-shadow: 0 12px 30px rgba(0,0,0,.17); z-index: 25; }
+.hq-lang-menu[hidden] { display: none !important; }
+.hq-lang-menu a { display: flex; align-items: center; gap: .55rem; padding: .55rem .65rem; border-radius: .4rem; font-size: .78rem; font-weight: 600; text-decoration: none; color: #233047; }
+.hq-lang-menu a:hover, .hq-lang-menu a[aria-current="page"] { background: #edf3ff; color: #2456a6; }
+.hq-lang-menu .hq-lang-code { min-width: 1.6rem; color: #526783; font-size: .7rem; }
+.hq-lang-ready .md-header .md-select { display: none; }
+[data-md-color-scheme="slate"] .hq-lang-menu { background: #1b2434; border-color: #43536a; }
+[data-md-color-scheme="slate"] .hq-lang-menu a { color: #e5edf7; }
+[data-md-color-scheme="slate"] .hq-lang-menu a:hover, [data-md-color-scheme="slate"] .hq-lang-menu a[aria-current="page"] { background: #304362; }
+@media (max-width: 600px) {
+  .hq-lang-switch { margin-left: .2rem; }
+  .hq-lang-trigger { padding: .28rem .42rem; font-size: .68rem; }
+  .hq-lang-menu { right: 0; }
+}
