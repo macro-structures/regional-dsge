@@ -118,6 +118,8 @@
   border-radius: 8px;
 }
 
+
+/*
 /* Mobile layout */
 @media screen and (max-width: 760px) {
   .academic-profile {
@@ -129,6 +131,64 @@
     max-width: 220px;
   }
 }
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+/* Mobile: show portrait before long biography */
+@media screen and (max-width: 760px) {
+
+  .academic-profile {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+
+  /* Allow text elements to participate in layout */
+  .academic-profile-text {
+    display: contents;
+  }
+
+  /* Name and affiliation first */
+  .academic-profile-text h2 {
+    order: 1;
+    margin: 0;
+  }
+
+  .academic-profile-text p:first-of-type {
+    order: 2;
+  }
+
+  /* Portrait immediately after introduction */
+  .academic-profile-photo {
+    order: 3;
+    width: 180px;
+    max-width: 100%;
+    align-self: center;
+    margin: 6px 0 12px;
+  }
+
+  .academic-profile-photo img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  /* Remaining biography */
+  .academic-profile-text p {
+    order: 4;
+  }
+}
+
 
 
 
