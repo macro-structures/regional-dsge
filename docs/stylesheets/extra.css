@@ -83,3 +83,50 @@
 .policy-lab-notice p {
   color: #cbd5e1;
 }
+
+
+
+
+
+
+/* Academic profile: two-column introduction */
+.academic-profile {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 240px;
+  gap: 36px;
+  align-items: start;
+  margin: 22px 0 42px;
+}
+
+/* Remove excessive heading spacing */
+.academic-profile-text h2 {
+  margin-top: 0;
+  margin-bottom: 18px;
+}
+
+/* Keep profile description compact */
+.academic-profile-text p {
+  line-height: 1.7;
+  margin-bottom: 16px;
+}
+
+/* Portrait styling */
+.academic-profile-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* Mobile layout */
+@media screen and (max-width: 760px) {
+  .academic-profile {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .academic-profile-photo {
+    max-width: 220px;
+  }
+}
+
