@@ -2,7 +2,7 @@
 # About Me
 
 <div class="academic-profile">
-  <div class="academic-profile-text">
+  <div class="academic-profile-text" markdown="1">
 
 ## Qinhua Huang, FHEA
 
