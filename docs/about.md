@@ -1,8 +1,10 @@
 
+
 # About Me
 
-<div class="academic-profile">
-  <div class="academic-profile-text" markdown="1">
+<div class="academic-profile" markdown="block">
+
+<div class="academic-profile-text" markdown="block">
 
 ## Qinhua Huang, FHEA
 
@@ -15,14 +17,15 @@ I am a PhD researcher specialising in **regional macroeconomics, productivity di
 
 My doctoral research develops a three-region Dynamic Stochastic General Equilibrium (DSGE) model of the UK, distinguishing the North, South, and Wales. Using structural macroeconomic modelling and **indirect inference**, I investigate regional economic disparities and the role of innovation, taxation, labour markets, and housing.
 
-A central question is whether nationwide policies generate uneven regional outcomes, and whether regionally targeted interventions can help narrow the economic gap between Wales and the rest of the UK.
+A central question motivating my research is whether nationwide policies generate uneven regional outcomes, and whether regionally targeted interventions can help narrow the economic gap between Wales and the rest of the UK.
 
-  </div>
+</div>
 
-  <div class="academic-profile-photo">
-    <img src="../image/QinhuaHuang_AboutMe1.jpg"
-         alt="Qinhua Huang">
-  </div>
+<div class="academic-profile-photo">
+<img src="../image/QinhuaHuang_AboutMe1.jpg"
+     alt="Qinhua Huang">
+</div>
+
 </div>
 
 ## Research Interests
@@ -32,6 +35,7 @@ A central question is whether nationwide policies generate uneven regional outco
 - Indirect Inference and Model Evaluation
 - Innovation, Productivity and Economic Growth
 - Fiscal Devolution and Regional Policy Transmission
+
 
 ## Doctoral Research
 
