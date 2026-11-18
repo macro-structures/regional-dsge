@@ -1,6 +1,6 @@
 # About Me
 
-<img src="../image/QinhuaHuang_AboutMe.jpg"
+<img src="../image/QinhuaHuang_AboutMe1.jpg"
      alt="Qinhua Huang"
      width="230"
      style="float:right; margin:0 0 20px 28px; border-radius:10px;">
