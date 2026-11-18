@@ -89,28 +89,46 @@
 
 
 
-/* Academic profile: two-column introduction */
+/* =====================================
+   About Me — Desktop Layout
+   ===================================== */
+
 .academic-profile {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 240px;
-  gap: 36px;
+  column-gap: 36px;
   align-items: start;
   margin: 22px 0 42px;
 }
 
-/* Remove excessive heading spacing */
-.academic-profile-text h2 {
+/* Name and academic position */
+.academic-profile-heading {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.academic-profile-heading h2 {
   margin-top: 0;
   margin-bottom: 18px;
 }
 
-/* Keep profile description compact */
-.academic-profile-text p {
+/* Research biography */
+.academic-profile-bio {
+  grid-column: 1;
+  grid-row: 2;
+}
+
+.academic-profile-bio p {
   line-height: 1.7;
   margin-bottom: 16px;
 }
 
-/* Portrait styling */
+/* Portrait on the right */
+.academic-profile-photo {
+  grid-column: 2;
+  grid-row: 1 / 3;
+}
+
 .academic-profile-photo img {
   display: block;
   width: 100%;
@@ -119,20 +137,47 @@
 }
 
 
-/*
-/* Mobile layout */
+/* =====================================
+   About Me — Mobile Layout
+   ===================================== */
+
 @media screen and (max-width: 760px) {
+
   .academic-profile {
-    grid-template-columns: 1fr;
-    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 16px 0 32px;
   }
 
+  /* 1. Name and position */
+  .academic-profile-heading {
+    order: 1;
+  }
+
+  .academic-profile-heading h2 {
+    margin-top: 0;
+    margin-bottom: 12px;
+  }
+
+  /* 2. Portrait */
   .academic-profile-photo {
-    max-width: 220px;
+    order: 2;
+    align-self: center;
+    width: 190px;
+    max-width: 100%;
+  }
+
+  /* 3. Research biography */
+  .academic-profile-bio {
+    order: 3;
+  }
+
+  .academic-profile-bio p {
+    line-height: 1.65;
+    margin-bottom: 14px;
   }
 }
-*/
-
 
 
 
