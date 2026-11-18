@@ -14,8 +14,9 @@ Cymrawd yr Academi Addysg Uwch (FHEA)
 </div>
 
 <div class="academic-profile-photo">
-<img src="../image/QinhuaHuang_AboutMe1.jpg"
-     alt="Llun proffil Qinhua Huang">
+  <img src="/image/QinhuaHuang_AboutMe1.jpg"
+       alt="Qinhua Huang"
+       loading="lazy">
 </div>
 
 <div class="academic-profile-bio" markdown="block">
