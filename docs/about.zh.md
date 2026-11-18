@@ -14,8 +14,9 @@
 </div>
 
 <div class="academic-profile-photo">
-<img src="../image/QinhuaHuang_AboutMe1.jpg"
-     alt="Qinhua Huang 的个人照片">
+  <img src="/image/QinhuaHuang_AboutMe1.jpg"
+       alt="Qinhua Huang"
+       loading="lazy">
 </div>
 
 <div class="academic-profile-bio" markdown="block">
