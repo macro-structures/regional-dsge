@@ -21,6 +21,21 @@
 
 工作论文和研究成果将陆续发布于此。
 
+
+
+## 学术报告与演讲
+
+精选学术研究及政策报告。
+
+**哪些权力下放措施能够释放威尔士的创新潜力？**  
+研究报告 · 2026年11月
+
+[下载演讲幻灯片（PPTX）](assets/slides/Wales_Innovation_Research_Briefing_30min_v4.pptx)
+
+
+
+
+
 ## 政策模拟
 
 [探索交互式政策模拟](policy/index.md)
