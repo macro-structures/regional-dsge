@@ -21,6 +21,24 @@ Mae'r model yn ymchwilio i anghydraddoldebau rhanbarthol, arloesi, cynhyrchiant,
 
 Bydd papurau gwaith a chanlyniadau ymchwil yn cael eu hychwanegu yma.
 
+
+
+
+## Cyflwyniadau a Darlithoedd
+
+Cyflwyniadau academaidd a pholisi dethol.
+
+**Pa bwerau datganoli all ddatgloi potensial arloesi Cymru?**  
+Cyflwyniad Ymchwil · Tachwedd 2026
+
+[Lawrlwytho'r Sleidiau (PPTX)](assets/slides/Wales_Innovation_Research_Briefing_30min_v4.pptx)
+
+
+
+
+
+
+
 ## Efelychiadau Polisi
 
 [Archwiliwch Efelychiadau Polisi Rhyngweithiol](policy/index.md)
