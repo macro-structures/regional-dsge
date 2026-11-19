@@ -25,6 +25,27 @@ national and regional economic policies.
 
 Working papers and research outputs will be added here.
 
+
+
+
+
+
+## Presentations & Talks
+
+Selected academic and policy presentations.
+
+**Which Devolution Powers Can Unlock Wales's Innovation Potential?**  
+Research Briefing · November 2026
+
+[Download Presentation Slides (PPTX)](assets/slides/Wales_Innovation_Research_Briefing_30min_v4.pptx)
+
+
+
+
+
+
+
+
 ## Policy Simulations
 
 [Explore Interactive Policy Simulations](policy/index.md)
