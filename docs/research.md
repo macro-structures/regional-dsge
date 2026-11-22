@@ -37,7 +37,7 @@ Selected academic and policy presentations.
 **Which Devolution Powers Can Unlock Wales's Innovation Potential?**  
 Research Briefing · November 2026
 
-[Download Presentation Slides (PPTX)](assets/slides/Wales_Innovation_Research_Briefing_30min_v4.pptx)
+[Download Presentation Slides ](assets/slides/Presentation_Wales_Innovation_Research_QinhuaHuang.pdf)
 
 
 
