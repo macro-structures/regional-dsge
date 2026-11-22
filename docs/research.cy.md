@@ -31,7 +31,7 @@ Cyflwyniadau academaidd a pholisi dethol.
 **Pa bwerau datganoli all ddatgloi potensial arloesi Cymru?**  
 Cyflwyniad Ymchwil · Tachwedd 2026
 
-[Lawrlwytho'r Sleidiau (PPTX)](assets/slides/Wales_Innovation_Research_Briefing_30min_v4.pptx)
+[Lawrlwytho'r Sleidiau ](assets/slides/Presentation_Wales_Innovation_Research_QinhuaHuang.pdf)
 
 
 
