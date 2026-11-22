@@ -30,7 +30,7 @@
 **哪些权力下放措施能够释放威尔士的创新潜力？**  
 研究报告 · 2026年11月
 
-[下载演讲幻灯片（PPTX）](assets/slides/Wales_Innovation_Research_Briefing_30min_v4.pptx)
+[下载演讲幻灯片](assets/slides/Presentation_Wales_Innovation_Research_QinhuaHuang.pdf)
 
 
 
