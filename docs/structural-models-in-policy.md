@@ -39,6 +39,20 @@
 .policy-showcase .sources li{margin-bottom:.4rem}
 .policy-showcase .note{font-size:.75rem;color:var(--md-default-fg-color--light);border-top:1px solid var(--md-default-fg-color--lightest);padding-top:.85rem;margin-top:1.3rem}
 @media(max-width:600px){.policy-showcase .path{grid-template-columns:repeat(2,minmax(0,1fr))}.policy-showcase .hero{border-radius:12px}.policy-showcase .cards{grid-template-columns:1fr}}
+
+/* Photo-led institutional precedents. This stylesheet is self-contained. */
+.policy-showcase .photo-cases{display:flex;flex-direction:column;gap:0;margin:1rem 0 2.2rem}
+.policy-showcase .photo-case{display:grid;grid-template-columns:minmax(155px,225px) minmax(0,1fr);gap:1.2rem;padding:1.3rem .1rem;border-bottom:1px solid var(--md-default-fg-color--lightest);align-items:start}
+.policy-showcase .photo-case>img{width:100%;height:166px;object-fit:cover;border-radius:17px;display:block;background:#dce6e9}
+.policy-showcase .photo-case-copy{min-width:0}
+.policy-showcase .photo-case-copy h3{font-size:1.05rem;line-height:1.35;font-weight:780;margin:.28rem 0 .52rem!important;color:var(--md-default-fg-color)}
+.policy-showcase .photo-case-copy>p:not(.photo-case-meta){font-size:.86rem;line-height:1.7;margin:0 0 .62rem}
+.policy-showcase .photo-case-meta{font-size:.69rem!important;line-height:1.4!important;color:var(--md-default-fg-color--light);margin:0!important}
+.policy-showcase .photo-case-tag{display:inline-block;border-radius:4px;padding:.15rem .4rem;background:#e4f3f1;color:#0d6869;font-weight:800;letter-spacing:.04em;font-size:.63rem}
+.policy-showcase .case-link a{font-size:.77rem;font-weight:740;text-decoration:none;border-bottom:1px solid currentColor;padding-bottom:.1rem}
+.policy-showcase .case-link a:hover{opacity:.74}
+@media(max-width:650px){.policy-showcase .photo-case{grid-template-columns:110px minmax(0,1fr);gap:.75rem;padding:1rem 0}.policy-showcase .photo-case>img{height:103px;border-radius:12px}.policy-showcase .photo-case-copy h3{font-size:.92rem}.policy-showcase .photo-case-copy>p:not(.photo-case-meta){font-size:.77rem}}
+@media(max-width:420px){.policy-showcase .photo-case{grid-template-columns:1fr}.policy-showcase .photo-case>img{height:auto;aspect-ratio:16/9}.policy-showcase .photo-case-copy h3{font-size:1rem}}
 </style>
 
 <div class="policy-showcase" markdown="1">
@@ -53,15 +67,72 @@
 <p class="intro"><strong>Why does this matter for regional development?</strong> A national policy does not necessarily produce uniform regional outcomes. Differences in capital, industry, labour markets, housing and innovation capacity can turn the same intervention into very different local adjustment paths. Structural models make these mechanisms explicit, although their quantitative findings depend on model assumptions and empirical validation.</p>
 
 <h2 class="sectionhead">Structural models in action</h2>
-<p class="sub">Selected documented institutional applications. Each case links to an official government, central-bank or international-organisation publication.</p>
+<p class="sub">Seven documented institutional applications, illustrated with photographs of the relevant organisations. Every case includes an official methodological or policy-analysis source.</p>
 
-<div class="cards">
-<div class="case"><div class="top"><span class="tag">REGIONAL CGE</span><span class="region">Scotland · UK</span></div><h3>Scottish Government</h3><p>Its CGE model examines the long-run impact of a stylised 10% US tariff increase on UK goods exports, including the exposure of Scotland and interregional spillovers. A direct precedent for treating a devolved economy separately.</p><a href="https://www.gov.scot/publications/modelling-long-run-economic-impacts-stylised-tariff-increase-technical-paper/" target="_blank" rel="noopener">Read the official 2025 study ↗</a></div>
-<div class="case"><div class="top"><span class="tag">MULTI-REGION DSGE</span><span class="region">European Union</span></div><h3>European Commission · QUEST</h3><p>QUEST is a multi-region New Keynesian DSGE model for analysing the international transmission of macroeconomic policies and shocks, including trade and fiscal interventions.</p><a href="https://economy-finance.ec.europa.eu/publications/global-economy-version-quest-simulation-properties_en" target="_blank" rel="noopener">Explore QUEST documentation ↗</a></div>
-<div class="case"><div class="top"><span class="tag">SPATIAL CGE</span><span class="region">European Union</span></div><h3>European Commission · RHOMOLO</h3><p>The Joint Research Centre's spatial general equilibrium framework evaluates how EU investments and cohesion policies affect different regions. It is particularly relevant for geographic distribution and convergence.</p><a href="https://joint-research-centre.ec.europa.eu/tedam/rhomolo-web-application_en" target="_blank" rel="noopener">Explore RHOMOLO ↗</a></div>
-<div class="case"><div class="top"><span class="tag">MACRO DSGE</span><span class="region">United Kingdom</span></div><h3>Bank of England · COMPASS lineage</h3><p>A 2025 Bank technical paper describes an estimated UK DSGE model built on COMPASS foundations and demonstrates structural decompositions, forecasts and counterfactual scenarios.</p><a href="https://www.bankofengland.co.uk/macro-technical-paper/2025/decompositions-forecasts-and-scenarios-from-an-estimated-dsge-model-for-the-uk-economy" target="_blank" rel="noopener">Read the 2025 technical paper ↗</a></div>
-<div class="case"><div class="top"><span class="tag">MACRO DSGE</span><span class="region">United States</span></div><h3>Federal Reserve · EDO</h3><p>The Fed's Estimated Dynamic Optimization (EDO) model has been used since 2006 for forecasting and policy analysis. Structural modelling is one component of a wider analytical toolkit.</p><a href="https://www.federalreserve.gov/econres/edo-models-about.htm" target="_blank" rel="noopener">Official EDO model page ↗</a></div>
-<div class="case"><div class="top"><span class="tag">GLOBAL DSGE</span><span class="region">International</span></div><h3>IMF · GIMF</h3><p>The Global Integrated Monetary and Fiscal model is a forward-looking, multi-region DSGE framework designed to analyse fiscal measures, international linkages and macroeconomic spillovers.</p><a href="https://www.imf.org/en/publications/wp/issues/2016/12/31/getting-to-know-gimf-the-simulation-properties-of-the-global-integrated-monetary-and-fiscal-40357" target="_blank" rel="noopener">Read the IMF model study ↗</a></div>
+<div class="photo-cases">
+<article class="photo-case">
+  <img src="../assets/policy-cases/scottish-government.jpg" alt="St Andrew’s House, Scottish Government headquarters in Edinburgh" loading="lazy" decoding="async">
+  <div class="photo-case-copy">
+    <p class="photo-case-meta"><span class="photo-case-tag">REGIONAL CGE</span> &nbsp; Scotland · UK</p>
+    <h3>Scottish Government — CGE models</h3>
+    <p>Its Scotland–rest-of-UK CGE framework examines long-run tariff scenarios and regional spillovers. A close institutional precedent for evaluating how the same external policy can affect a devolved economy differently.</p>
+    <p class="case-link"><a href="https://www.gov.scot/publications/modelling-long-run-economic-impacts-stylised-tariff-increase-technical-paper/" target="_blank" rel="noopener noreferrer">Official 2025 modelling study ↗</a></p>
+  </div>
+</article>
+<article class="photo-case">
+  <img src="../assets/policy-cases/european-commission.jpg" alt="European Commission Berlaymont building, Brussels" loading="lazy" decoding="async">
+  <div class="photo-case-copy">
+    <p class="photo-case-meta"><span class="photo-case-tag">MULTI-REGION DSGE</span> &nbsp; European Union</p>
+    <h3>European Commission — QUEST (DSGE)</h3>
+    <p>QUEST is a multi-region New Keynesian DSGE framework for analysing macroeconomic policy adjustments and cross-border transmission of shocks. It is relevant to the integrated three-region architecture of the North–South–Wales model.</p>
+    <p class="case-link"><a href="https://economy-finance.ec.europa.eu/publications/global-economy-version-quest-simulation-properties_en" target="_blank" rel="noopener noreferrer">QUEST technical paper ↗</a></p>
+  </div>
+</article>
+<article class="photo-case">
+  <img src="../assets/policy-cases/jrc-rhomolo.jpg" alt="European Commission Joint Research Centre at Ispra" loading="lazy" decoding="async">
+  <div class="photo-case-copy">
+    <p class="photo-case-meta"><span class="photo-case-tag">SPATIAL CGE</span> &nbsp; European Union</p>
+    <h3>European Commission JRC — RHOMOLO (spatial CGE)</h3>
+    <p>RHOMOLO studies how EU investment and cohesion policies affect different regions. Its geographical detail highlights why the distribution of policy outcomes matters alongside aggregate economic performance.</p>
+    <p class="case-link"><a href="https://joint-research-centre.ec.europa.eu/tedam/rhomolo-web-application_en" target="_blank" rel="noopener noreferrer">RHOMOLO interactive application ↗</a></p>
+  </div>
+</article>
+<article class="photo-case">
+  <img src="../assets/policy-cases/bank-of-england.jpg" alt="Bank of England headquarters on Threadneedle Street, London" loading="lazy" decoding="async">
+  <div class="photo-case-copy">
+    <p class="photo-case-meta"><span class="photo-case-tag">MACRO DSGE</span> &nbsp; United Kingdom</p>
+    <h3>Bank of England — COMPASS and related DSGE models</h3>
+    <p>The Bank’s structural models support monetary-policy analysis and scenarios. A 2025 technical paper presents decompositions, forecasts and scenario exercises using an estimated UK DSGE model based on COMPASS.</p>
+    <p class="case-link"><a href="https://www.bankofengland.co.uk/macro-technical-paper/2025/decompositions-forecasts-and-scenarios-from-an-estimated-dsge-model-for-the-uk-economy" target="_blank" rel="noopener noreferrer">Bank of England 2025 technical paper ↗</a></p>
+  </div>
+</article>
+<article class="photo-case">
+  <img src="../assets/policy-cases/federal-reserve.jpg" alt="Marriner S. Eccles Federal Reserve Board building, Washington DC" loading="lazy" decoding="async">
+  <div class="photo-case-copy">
+    <p class="photo-case-meta"><span class="photo-case-tag">MACRO DSGE</span> &nbsp; United States</p>
+    <h3>Federal Reserve — EDO and SIGMA (DSGE)</h3>
+    <p>The Federal Reserve has developed the EDO model for economic forecasting and policy analysis and SIGMA for international macroeconomic transmission. Its broader modelling toolkit also includes the structural FRB/US model.</p>
+    <p class="case-link"><a href="https://www.federalreserve.gov/econres/edo-models-about.htm" target="_blank" rel="noopener noreferrer">Federal Reserve EDO documentation ↗</a></p>
+  </div>
+</article>
+<article class="photo-case">
+  <img src="../assets/policy-cases/imf.jpg" alt="International Monetary Fund headquarters, Washington DC" loading="lazy" decoding="async">
+  <div class="photo-case-copy">
+    <p class="photo-case-meta"><span class="photo-case-tag">GLOBAL DSGE</span> &nbsp; International</p>
+    <h3>International Monetary Fund — GIMF (DSGE)</h3>
+    <p>The Global Integrated Monetary and Fiscal model is a forward-looking, multi-region DSGE framework for examining fiscal adjustments, international linkages and spillovers between economies.</p>
+    <p class="case-link"><a href="https://www.imf.org/en/publications/wp/issues/2016/12/31/getting-to-know-gimf-the-simulation-properties-of-the-global-integrated-monetary-and-fiscal-40357" target="_blank" rel="noopener noreferrer">IMF GIMF model study ↗</a></p>
+  </div>
+</article>
+<article class="photo-case">
+  <img src="../assets/policy-cases/ecb.jpg" alt="European Central Bank headquarters, Frankfurt" loading="lazy" decoding="async">
+  <div class="photo-case-copy">
+    <p class="photo-case-meta"><span class="photo-case-tag">MULTICOUNTRY DSGE</span> &nbsp; Euro area</p>
+    <h3>European Central Bank — EAGLE (DSGE)</h3>
+    <p>EAGLE is a multicountry DSGE model used in research on fiscal spillovers among euro-area economies. It is a useful methodological parallel for investigating geographically uneven policy transmission.</p>
+    <p class="case-link"><a href="https://www.ecb.europa.eu/press/economic-bulletin/articles/2019/html/ecb.ebart201901_02~5a37c33119.en.html" target="_blank" rel="noopener noreferrer">ECB fiscal-spillover application ↗</a></p>
+  </div>
+</article>
 </div>
 
 <h2 class="sectionhead">Why regional modelling changes the question</h2>
@@ -77,5 +148,6 @@
 
 <h2 class="sectionhead">Further reading and methodological context</h2>
 <ol class="sources"><li>Scottish Government (2025), <a href="https://www.gov.scot/publications/modelling-long-run-economic-impacts-stylised-tariff-increase-technical-paper/">Modelling the long-run economic impacts of a stylised US tariff increase</a>.</li><li>European Commission, <a href="https://economy-finance.ec.europa.eu/publications/global-economy-version-quest-simulation-properties_en">A Global Economy Version of QUEST: Simulation Properties</a>.</li><li>European Commission Joint Research Centre, <a href="https://joint-research-centre.ec.europa.eu/tedam/rhomolo-web-application_en">RHOMOLO Web Application</a>.</li><li>Bank of England (2025), <a href="https://www.bankofengland.co.uk/macro-technical-paper/2025/decompositions-forecasts-and-scenarios-from-an-estimated-dsge-model-for-the-uk-economy">Decompositions, forecasts and scenarios from an estimated DSGE model for the UK economy</a>.</li><li>Federal Reserve Board, <a href="https://www.federalreserve.gov/econres/edo-models-about.htm">Estimated Dynamic Optimization (EDO) Model</a>.</li><li>IMF, <a href="https://www.imf.org/en/publications/wp/issues/2016/12/31/getting-to-know-gimf-the-simulation-properties-of-the-global-integrated-monetary-and-fiscal-40357">Getting to Know GIMF</a>.</li><li>European Commission JRC, <a href="https://joint-research-centre.ec.europa.eu/reports-and-technical-documentation/tfp-rd-and-semi-endogenous-growth-rhomolo_en">TFP, R&D and Semi-Endogenous Growth in RHOMOLO</a>.</li></ol>
+<p class="note">Photographs identify the institutions and their premises; they are not photographs of modelling teams or evidence of endorsement. Photo credits and licence terms should be checked for each image before public release.</p>
 <p class="note">Research communication by Qinhua Huang, Cardiff University · November 2026. Institutional examples describe the cited organisations' models; they do not imply endorsement of this independent research. The North–South–Wales simulations are preliminary and model-conditional, not official forecasts or causal evaluations of statutory policy measures. Some policy-to-model transmission assumptions remain to be calibrated and estimated.</p>
 </div>
