@@ -88,7 +88,8 @@ plugins:
             Policy Lab: Labordy Polisi
             Interactive Policy Studio: Stiwdio Polisi Ryngweithiol
             Policy Briefing: Briff Polisi
-            Next Steps: Camau Nesaf
+            Structural Models in Policy: Modelau Strwythurol mewn Polisi
+            Next Steps: Camau Nesaf       
             Teaching: Addysgu
             Contact: Cysylltu
         - locale: zh
@@ -108,6 +109,7 @@ plugins:
             Policy Lab: 政策实验室
             Interactive Policy Studio: 交互式政策模拟平台
             Policy Briefing: 政策简报
+            Structural Models in Policy: 结构模型在公共政策中的应用
             Next Steps: 下一步研究计划
             Teaching: 教学
             Contact: 联系方式
