@@ -1,4 +1,4 @@
-
+ 
 <style>
 
  .policy-showcase .hero {
@@ -137,118 +137,112 @@
     line-height: 1.5;
 }
 .policy-showcase .note{font-size:.65rem!important;line-height:1.5!important;opacity:.72}
-
-/* Final compact sizing overrides, shared by language versions */
-.policy-showcase .hero{padding:1.05rem 1.4rem!important;border-radius:12px!important;margin-bottom:1.1rem!important}
-.policy-showcase .hero h2{font-size:1.3rem!important;line-height:1.2!important}
-.policy-showcase .hero p{font-size:.74rem!important;line-height:1.5!important}
-.policy-showcase .eyebrow{font-size:.59rem!important;margin-bottom:.45rem!important}
-.policy-showcase .pillrow{margin-top:.7rem!important}
-.policy-showcase .pill{font-size:.62rem!important;padding:.12rem .48rem!important}
-.policy-showcase .intro{font-size:.74rem!important;line-height:1.55!important}
-.policy-showcase .sectionhead{font-size:1rem!important;margin-top:1.4rem!important}
-.policy-showcase .sub{font-size:.72rem!important;line-height:1.5!important}
-.policy-showcase .photo-case-copy h3{font-size:.85rem!important}
-.policy-showcase .photo-case-copy>p:not(.photo-case-meta){font-size:.73rem!important;line-height:1.5!important}
-.policy-showcase .feature p,.policy-showcase .two p,.policy-showcase .callout p{font-size:.75rem!important;line-height:1.55!important}
-.policy-showcase .feature{padding:.95rem 1.1rem!important}
-.policy-showcase .callout{padding:1rem 1.2rem!important}
 </style>
-<div class="policy-showcase" lang="cy" markdown="1">
+
+<div class="policy-showcase" markdown="1">
+
 <div class="hero">
-<p class="eyebrow">Arfer ryngwladol · Polisi economaidd rhanbarthol</p>
-<h2>O Ddamcaniaeth Economaidd i Arbrofion Polisi</h2>
-<p>Mae llywodraethau, banciau canolog a sefydliadau rhyngwladol yn defnyddio modelau economaidd strwythurol i archwilio dewisiadau polisi, olrhain mecanweithiau trosglwyddo ac asesu canlyniadau na ellir eu harsylwi’n uniongyrchol mewn data hanesyddol.</p>
-<div class="pillrow"><span class="pill">DSGE</span><span class="pill">CGE</span><span class="pill">Effeithiau gorlifo rhanbarthol</span><span class="pill">Dadansoddiad gwrthffeithiol</span></div>
+<p class="eyebrow">Global practice · Regional economic policy</p>
+<h2>From Economic Theory to Policy Experiments</h2>
+<p>Governments, central banks and international institutions use structural economic models to explore policy choices, trace transmission mechanisms and assess consequences that cannot be observed directly in historical data.</p>
+<div class="pillrow"><span class="pill">DSGE</span><span class="pill">CGE</span><span class="pill">Regional spillovers</span><span class="pill">Counterfactual analysis</span></div>
 </div>
-<p class="intro"><strong>Pam mae hyn yn bwysig i ddatblygiad rhanbarthol?</strong> Nid yw polisi cenedlaethol o reidrwydd yn arwain at yr un canlyniadau ym mhob rhanbarth. Gall gwahaniaethau mewn cyfalaf, diwydiant, marchnadoedd llafur, tai a gallu i arloesi beri i’r un ymyriad greu llwybrau addasu gwahanol iawn. Mae modelau strwythurol yn egluro’r mecanweithiau hyn, er bod eu canlyniadau meintiol yn dibynnu ar ragdybiaethau’r model a dilysu empirig.</p>
-<h2 class="sectionhead">Modelau strwythurol ar waith</h2>
-<p class="sub">Saith enghraifft ddogfenedig o ddefnydd sefydliadol, gyda ffotograffau o’r sefydliadau perthnasol. Mae pob enghraifft yn cynnwys ffynhonnell swyddogol am y fethodoleg neu’r dadansoddiad polisi.</p>
+
+<p class="intro"><strong>Why does this matter for regional development?</strong> A national policy does not necessarily produce uniform regional outcomes. Differences in capital, industry, labour markets, housing and innovation capacity can turn the same intervention into very different local adjustment paths. Structural models make these mechanisms explicit, although their quantitative findings depend on model assumptions and empirical validation.</p>
+
+<h2 class="sectionhead">Structural models in action</h2>
+<p class="sub">Seven documented institutional applications, illustrated with photographs of the relevant organisations. Every case includes an official methodological or policy-analysis source.</p>
+
 <div class="photo-cases">
 <article class="photo-case">
-<img alt="St Andrew’s House, pencadlys Llywodraeth yr Alban yng Nghaeredin" decoding="async" loading="lazy" src="https://commons.wikimedia.org/wiki/Special:FilePath/St_Andrew%27s_House,_Edinburgh_(2496436039).jpg?width=640"/>
-<div class="photo-case-copy">
-<p class="photo-case-meta"><span class="photo-case-tag">CGE RHANBARTHOL</span>   Yr Alban · y DU</p>
-<h3>Llywodraeth yr Alban — modelau CGE</h3>
-<p>Mae ei fframwaith CGE ar gyfer yr Alban a gweddill y DU yn archwilio senarios tariffau hirdymor ac effeithiau gorlifo rhanbarthol. Mae’n enghraifft sefydliadol berthnasol o asesu sut y gall yr un polisi allanol effeithio’n wahanol ar economi ddatganoledig.</p>
-<p class="case-link"><a href="https://www.gov.scot/publications/modelling-long-run-economic-impacts-stylised-tariff-increase-technical-paper/" rel="noopener noreferrer" target="_blank">Astudiaeth fodelu swyddogol 2025 ↗</a></p>
-</div>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/St_Andrew%27s_House,_Edinburgh_(2496436039).jpg?width=640" alt="St Andrew’s House, Scottish Government headquarters in Edinburgh" loading="lazy" decoding="async">
+  <div class="photo-case-copy">
+    <p class="photo-case-meta"><span class="photo-case-tag">REGIONAL CGE</span> &nbsp; Scotland · UK</p>
+    <h3>Scottish Government — CGE models</h3>
+    <p>Its Scotland–rest-of-UK CGE framework examines long-run tariff scenarios and regional spillovers. A close institutional precedent for evaluating how the same external policy can affect a devolved economy differently.</p>
+    <p class="case-link"><a href="https://www.gov.scot/publications/modelling-long-run-economic-impacts-stylised-tariff-increase-technical-paper/" target="_blank" rel="noopener noreferrer">Official 2025 modelling study ↗</a></p>
+  </div>
 </article>
 <article class="photo-case">
-<img alt="adeilad Berlaymont y Comisiwn Ewropeaidd ym Mrwsel" decoding="async" loading="lazy" src="https://commons.wikimedia.org/wiki/Special:FilePath/Berlaymont_building_Brussels.jpg?width=640"/>
-<div class="photo-case-copy">
-<p class="photo-case-meta"><span class="photo-case-tag">DSGE AML-RANBARTH</span>   Yr Undeb Ewropeaidd</p>
-<h3>Y Comisiwn Ewropeaidd — QUEST (DSGE)</h3>
-<p>Mae QUEST yn fframwaith DSGE Keynesaidd Newydd aml-ranbarth ar gyfer dadansoddi addasiadau polisi macroeconomaidd a throsglwyddiad siociau ar draws ffiniau. Mae’n berthnasol i bensaernïaeth integredig model tair rhanbarth y Gogledd–De–Cymru.</p>
-<p class="case-link"><a href="https://economy-finance.ec.europa.eu/publications/global-economy-version-quest-simulation-properties_en" rel="noopener noreferrer" target="_blank">Papur technegol QUEST ↗</a></p>
-</div>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Berlaymont_building_Brussels.jpg?width=640" alt="European Commission Berlaymont building, Brussels" loading="lazy" decoding="async">
+  <div class="photo-case-copy">
+    <p class="photo-case-meta"><span class="photo-case-tag">MULTI-REGION DSGE</span> &nbsp; European Union</p>
+    <h3>European Commission — QUEST (DSGE)</h3>
+    <p>QUEST is a multi-region New Keynesian DSGE framework for analysing macroeconomic policy adjustments and cross-border transmission of shocks. It is relevant to the integrated three-region architecture of the North–South–Wales model.</p>
+    <p class="case-link"><a href="https://economy-finance.ec.europa.eu/publications/global-economy-version-quest-simulation-properties_en" target="_blank" rel="noopener noreferrer">QUEST technical paper ↗</a></p>
+  </div>
 </article>
 <article class="photo-case">
-<img alt="Canolfan Ymchwil ar y Cyd y Comisiwn Ewropeaidd yn Ispra" decoding="async" loading="lazy" src="https://commons.wikimedia.org/wiki/Special:FilePath/Main_entrance_of_the_Joint_Research_Centre_(JRC)_in_Ispra,_Italy.png?width=640"/>
-<div class="photo-case-copy">
-<p class="photo-case-meta"><span class="photo-case-tag">CGE GOFODOL</span>   Yr Undeb Ewropeaidd</p>
-<h3>Canolfan Ymchwil ar y Cyd y Comisiwn Ewropeaidd — RHOMOLO (CGE gofodol)</h3>
-<p>Mae RHOMOLO yn astudio sut mae buddsoddiad yr UE a pholisïau cydlyniant yn effeithio ar wahanol ranbarthau. Mae ei fanylder daearyddol yn dangos pwysigrwydd dosbarthiad gofodol canlyniadau polisi ochr yn ochr â pherfformiad economaidd cyffredinol.</p>
-<p class="case-link"><a href="https://joint-research-centre.ec.europa.eu/tedam/rhomolo-web-application_en" rel="noopener noreferrer" target="_blank">Cymhwysiad rhyngweithiol RHOMOLO ↗</a></p>
-</div>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Main_entrance_of_the_Joint_Research_Centre_(JRC)_in_Ispra,_Italy.png?width=640" alt="European Commission Joint Research Centre at Ispra" loading="lazy" decoding="async">
+  <div class="photo-case-copy">
+    <p class="photo-case-meta"><span class="photo-case-tag">SPATIAL CGE</span> &nbsp; European Union</p>
+    <h3>European Commission JRC — RHOMOLO (spatial CGE)</h3>
+    <p>RHOMOLO studies how EU investment and cohesion policies affect different regions. Its geographical detail highlights why the distribution of policy outcomes matters alongside aggregate economic performance.</p>
+    <p class="case-link"><a href="https://joint-research-centre.ec.europa.eu/tedam/rhomolo-web-application_en" target="_blank" rel="noopener noreferrer">RHOMOLO interactive application ↗</a></p>
+  </div>
 </article>
 <article class="photo-case">
-<img alt="pencadlys Banc Lloegr yn Threadneedle Street, Llundain" decoding="async" loading="lazy" src="https://commons.wikimedia.org/wiki/Special:FilePath/Bank_of_England_Facade.jpg?width=640"/>
-<div class="photo-case-copy">
-<p class="photo-case-meta"><span class="photo-case-tag">DSGE MACRO</span>   Y Deyrnas Unedig</p>
-<h3>Banc Lloegr — COMPASS a modelau DSGE cysylltiedig</h3>
-<p>Mae modelau strwythurol y Banc yn cefnogi dadansoddi polisi ariannol ac astudiaethau senario. Mae papur technegol o 2025 yn cyflwyno dadelfeniadau, rhagolygon ac ymarferion senario gan ddefnyddio model DSGE amcangyfrifedig o economi’r DU sy’n seiliedig ar COMPASS.</p>
-<p class="case-link"><a href="https://www.bankofengland.co.uk/macro-technical-paper/2025/decompositions-forecasts-and-scenarios-from-an-estimated-dsge-model-for-the-uk-economy" rel="noopener noreferrer" target="_blank">Papur technegol Banc Lloegr 2025 ↗</a></p>
-</div>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bank_of_England_Facade.jpg?width=640" alt="Bank of England headquarters on Threadneedle Street, London" loading="lazy" decoding="async">
+  <div class="photo-case-copy">
+    <p class="photo-case-meta"><span class="photo-case-tag">MACRO DSGE</span> &nbsp; United Kingdom</p>
+    <h3>Bank of England — COMPASS and related DSGE models</h3>
+    <p>The Bank’s structural models support monetary-policy analysis and scenarios. A 2025 technical paper presents decompositions, forecasts and scenario exercises using an estimated UK DSGE model based on COMPASS.</p>
+    <p class="case-link"><a href="https://www.bankofengland.co.uk/macro-technical-paper/2025/decompositions-forecasts-and-scenarios-from-an-estimated-dsge-model-for-the-uk-economy" target="_blank" rel="noopener noreferrer">Bank of England 2025 technical paper ↗</a></p>
+  </div>
 </article>
 <article class="photo-case">
-<img alt="adeilad Bwrdd y Gronfa Ffederal Marriner S. Eccles, Washington DC" decoding="async" loading="lazy" src="https://commons.wikimedia.org/wiki/Special:FilePath/Federal_Reserve.jpg?width=640"/>
-<div class="photo-case-copy">
-<p class="photo-case-meta"><span class="photo-case-tag">DSGE MACRO</span>   Yr Unol Daleithiau</p>
-<h3>Y Gronfa Ffederal — EDO a SIGMA (DSGE)</h3>
-<p>Mae’r Gronfa Ffederal wedi datblygu model EDO ar gyfer rhagolygon economaidd a dadansoddi polisi, a SIGMA ar gyfer trosglwyddiad macroeconomaidd rhyngwladol. Mae ei phecyn modelu ehangach hefyd yn cynnwys model strwythurol FRB/US.</p>
-<p class="case-link"><a href="https://www.federalreserve.gov/econres/edo-models-about.htm" rel="noopener noreferrer" target="_blank">Dogfennaeth EDO y Gronfa Ffederal ↗</a></p>
-</div>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Federal_Reserve.jpg?width=640" alt="Marriner S. Eccles Federal Reserve Board building, Washington DC" loading="lazy" decoding="async">
+  <div class="photo-case-copy">
+    <p class="photo-case-meta"><span class="photo-case-tag">MACRO DSGE</span> &nbsp; United States</p>
+    <h3>Federal Reserve — EDO and SIGMA (DSGE)</h3>
+    <p>The Federal Reserve has developed the EDO model for economic forecasting and policy analysis and SIGMA for international macroeconomic transmission. Its broader modelling toolkit also includes the structural FRB/US model.</p>
+    <p class="case-link"><a href="https://www.federalreserve.gov/econres/edo-models-about.htm" target="_blank" rel="noopener noreferrer">Federal Reserve EDO documentation ↗</a></p>
+  </div>
 </article>
 <article class="photo-case">
-<img alt="pencadlys y Gronfa Ariannol Ryngwladol, Washington DC" decoding="async" loading="lazy" src="https://commons.wikimedia.org/wiki/Special:FilePath/Headquarters_of_the_International_Monetary_Fund_(Washington,_DC).jpg?width=640"/>
-<div class="photo-case-copy">
-<p class="photo-case-meta"><span class="photo-case-tag">DSGE BYD-EANG</span>   Rhyngwladol</p>
-<h3>Y Gronfa Ariannol Ryngwladol — GIMF (DSGE)</h3>
-<p>Mae’r Model Ariannol a Chyllidol Integredig Byd-eang (GIMF) yn fframwaith DSGE aml-ranbarth, sy’n edrych tua’r dyfodol, ar gyfer archwilio addasiadau cyllidol, cysylltiadau rhyngwladol ac effeithiau gorlifo rhwng economïau.</p>
-<p class="case-link"><a href="https://www.imf.org/en/publications/wp/issues/2016/12/31/getting-to-know-gimf-the-simulation-properties-of-the-global-integrated-monetary-and-fiscal-40357" rel="noopener noreferrer" target="_blank">Astudiaeth model GIMF yr IMF ↗</a></p>
-</div>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Headquarters_of_the_International_Monetary_Fund_(Washington,_DC).jpg?width=640" alt="International Monetary Fund headquarters, Washington DC" loading="lazy" decoding="async">
+  <div class="photo-case-copy">
+    <p class="photo-case-meta"><span class="photo-case-tag">GLOBAL DSGE</span> &nbsp; International</p>
+    <h3>International Monetary Fund — GIMF (DSGE)</h3>
+    <p>The Global Integrated Monetary and Fiscal model is a forward-looking, multi-region DSGE framework for examining fiscal adjustments, international linkages and spillovers between economies.</p>
+    <p class="case-link"><a href="https://www.imf.org/en/publications/wp/issues/2016/12/31/getting-to-know-gimf-the-simulation-properties-of-the-global-integrated-monetary-and-fiscal-40357" target="_blank" rel="noopener noreferrer">IMF GIMF model study ↗</a></p>
+  </div>
 </article>
 <article class="photo-case">
-<img alt="pencadlys Banc Canolog Ewrop, Frankfurt" decoding="async" loading="lazy" src="https://commons.wikimedia.org/wiki/Special:FilePath/European_Central_Bank_building,_Frankfurt.jpg?width=640"/>
-<div class="photo-case-copy">
-<p class="photo-case-meta"><span class="photo-case-tag">DSGE AML-WLAD</span>   Ardal yr ewro</p>
-<h3>Banc Canolog Ewrop — EAGLE (DSGE)</h3>
-<p>Mae EAGLE yn fodel DSGE aml-wlad a ddefnyddir mewn ymchwil ar effeithiau gorlifo cyllidol rhwng economïau ardal yr ewro. Mae’n gymhariaeth fethodolegol ddefnyddiol ar gyfer astudio trosglwyddiad polisi sy’n amrywio yn ôl lleoliad.</p>
-<p class="case-link"><a href="https://www.ecb.europa.eu/press/economic-bulletin/articles/2019/html/ecb.ebart201901_02~5a37c33119.en.html" rel="noopener noreferrer" target="_blank">Cymhwysiad ECB i effeithiau gorlifo cyllidol ↗</a></p>
-</div>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/European_Central_Bank_building,_Frankfurt.jpg?width=640" alt="European Central Bank headquarters, Frankfurt" loading="lazy" decoding="async">
+  <div class="photo-case-copy">
+    <p class="photo-case-meta"><span class="photo-case-tag">MULTICOUNTRY DSGE</span> &nbsp; Euro area</p>
+    <h3>European Central Bank — EAGLE (DSGE)</h3>
+    <p>EAGLE is a multicountry DSGE model used in research on fiscal spillovers among euro-area economies. It is a useful methodological parallel for investigating geographically uneven policy transmission.</p>
+    <p class="case-link"><a href="https://www.ecb.europa.eu/press/economic-bulletin/articles/2019/html/ecb.ebart201901_02~5a37c33119.en.html" target="_blank" rel="noopener noreferrer">ECB fiscal-spillover application ↗</a></p>
+  </div>
 </article>
 </div>
-<h2 class="sectionhead">Pam mae modelu rhanbarthol yn newid y cwestiwn</h2>
-<div class="feature"><h3>Un sioc genedlaethol. Ymatebion rhanbarthol gwahanol.</h3><p>Mae ymarfer polisi strwythurol yn cysylltu ymyriadau â chymhellion, ymddygiad aelwydydd a chwmnïau, cronni cyfalaf ac, yn y pen draw, ganlyniadau rhanbarthol. Mae’n datgelu mecanweithiau a chyfaddawdau y gall un amcangyfrif o GDP cyfanredol y DU eu cuddio.</p><div class="path"><div class="step"><b>Newid polisi</b><span>Trethi · grantiau · buddsoddiad</span></div><div class="step"><b>Ymddygiad yn addasu</b><span>Cwmnïau · aelwydydd · llafur</span></div><div class="step"><b>Capasiti yn datblygu</b><span>Cyfalaf · sgiliau · arloesi</span></div><div class="step"><b>Canlyniadau rhanbarthol</b><span>GDP · cyflogau · effeithiau gorlifo</span></div></div><p><strong>Y cwestiwn allweddol:</strong> A yw polisi ar draws y DU yn gwneud y mwyaf o allbwn cenedlaethol, yn cyflymu cydgyfeiriant Cymru, neu’n gwella llesiant trigolion? Mae’r amcanion hyn yn gysylltiedig ond yn wahanol.</p></div>
-<h2 class="sectionhead">DSGE a CGE: ategol, nid cyfnewidiol</h2>
-<div class="two"><div><h3>Cydbwysedd Cyffredinol Dynamig Stocastig (DSGE)</h3><p>Mae disgwyliadau penodol, penderfyniadau rhyngamserol, siociau a llwybrau addasu yn gwneud modelau DSGE yn ddefnyddiol i astudio <strong>pryd</strong> y daw effeithiau polisi i’r amlwg, pa mor hir y maent yn para a sut mae siociau’n lledaenu.</p></div><div><h3>Cydbwysedd Cyffredinol Cyfrifadwy (CGE)</h3><p>Mae cyfrifyddu economi gyfan a chysylltiadau manwl rhwng sectorau neu ardaloedd yn gwneud llawer o fodelau CGE yn ddefnyddiol i astudio <strong>ble</strong> y mae costau a buddion yn disgyn, yn enwedig ym maes masnach, trethi a pholisi rhanbarthol. Gall modelau CGE fod yn ddeinamig hefyd.</p></div></div>
-<h2 class="sectionhead">Fy nghyfraniad: model DSGE tair rhanbarth o’r DU</h2>
-<div class="feature"><h3>Y Gogledd · Y De · Cymru</h3><p>Gan adeiladu ar fframwaith Gogledd–De Patrick Minford a’i gyd-awduron, mae fy ymchwil yn modelu Cymru ar wahân o fewn economi gyffredin y DU. Mae’n cysylltu costau sy’n gysylltiedig ag arloesi, cronni cyfalaf, tai, dyraniad llafur, GDP rhanbarthol ac effeithiau gorlifo.</p><p>Amcangyfrifir paramedrau a gwerthusir cysylltiadau rhanbarthol dethol drwy gasgliad anuniongyrchol. Mae arbrofion polisi yn cymharu ymyriadau wedi’u targedu at Gymru â rhai ar draws y DU, eu llwybrau deinamig, a sut mae’r casgliadau’n newid yn ôl amcan y polisi.</p><p><strong>Beth mae’r model yn ei ychwanegu:</strong> labordy rhanbarthol, rhyngamserol i ymchwilio i ymatebion amrywiol—nid honiad y bydd unrhyw dreth neu grant damcaniaethol yn cynhyrchu’r effaith a fodelwyd yn awtomatig.</p></div>
-<div class="callout"><h3>O gynseiliau rhyngwladol i ymchwil polisi Cymru</h3><p>Mae sefydliadau eraill wedi dangos gwerth modelu strwythurol. Y cam nesaf yw cysylltu fframwaith DSGE sy’n cynrychioli Cymru’n benodol ag offerynnau polisi wedi’u diffinio’n glir, costau cyllidol realistig, tystiolaeth ymddygiadol a dilysu pellach—gan ategu’r dadansoddiad economaidd presennol yng Nghymru.</p><a class="action" href="/policy/">Archwilio’r Stiwdio Bolisi</a><a class="action alt" href="mailto:Huangq24@cardiff.ac.uk?subject=Regional%20DSGE%20Policy%20Research">Trafod cydweithio ymchwil</a></div>
-<h2 class="sectionhead">Darllen pellach a chyd-destun methodolegol</h2>
-<ol class="sources"><li>Scottish Government (2025), <a href="https://www.gov.scot/publications/modelling-long-run-economic-impacts-stylised-tariff-increase-technical-paper/">Modelling the long-run economic impacts of a stylised US tariff increase</a>.</li><li>European Commission, <a href="https://economy-finance.ec.europa.eu/publications/global-economy-version-quest-simulation-properties_en">A Global Economy Version of QUEST: Simulation Properties</a>.</li><li>European Commission Joint Research Centre, <a href="https://joint-research-centre.ec.europa.eu/tedam/rhomolo-web-application_en">RHOMOLO Web Application</a>.</li><li>Bank of England (2025), <a href="https://www.bankofengland.co.uk/macro-technical-paper/2025/decompositions-forecasts-and-scenarios-from-an-estimated-dsge-model-for-the-uk-economy">Decompositions, forecasts and scenarios from an estimated DSGE model for the UK economy</a>.</li><li>Federal Reserve Board, <a href="https://www.federalreserve.gov/econres/edo-models-about.htm">Estimated Dynamic Optimization (EDO) Model</a>.</li><li>IMF, <a href="https://www.imf.org/en/publications/wp/issues/2016/12/31/getting-to-know-gimf-the-simulation-properties-of-the-global-integrated-monetary-and-fiscal-40357">Getting to Know GIMF</a>.</li><li>European Commission JRC, <a href="https://joint-research-centre.ec.europa.eu/reports-and-technical-documentation/tfp-rd-and-semi-endogenous-growth-rhomolo_en">TFP, R&amp;D and Semi-Endogenous Growth in RHOMOLO</a>.</li></ol>
+
+<h2 class="sectionhead">Why regional modelling changes the question</h2>
+<div class="feature"><h3>One national shock. Different regional responses.</h3><p>A structural policy exercise connects interventions to incentives, the behaviour of households and firms, capital accumulation and, ultimately, regional outcomes. It reveals mechanisms and trade-offs that a single aggregate UK GDP estimate may conceal.</p><div class="path"><div class="step"><b>Policy change</b><span>Taxes · grants · investment</span></div><div class="step"><b>Behaviour adjusts</b><span>Firms · households · labour</span></div><div class="step"><b>Capacity evolves</b><span>Capital · skills · innovation</span></div><div class="step"><b>Regional outcomes</b><span>GDP · wages · spillovers</span></div></div><p><strong>Key question:</strong> Does a UK-wide policy maximise national output, accelerate Welsh convergence, or improve residents' welfare? These are related but distinct objectives.</p></div>
+
+<h2 class="sectionhead">DSGE and CGE: complementary, not interchangeable</h2>
+<div class="two"><div><h3>Dynamic stochastic general equilibrium (DSGE)</h3><p>Explicit expectations, intertemporal decisions, shocks and adjustment paths make DSGE models useful for studying <strong>when</strong> policy effects arise, how long they persist and how shocks propagate.</p></div><div><h3>Computable general equilibrium (CGE)</h3><p>Economy-wide accounting and disaggregated sectoral or geographical relationships make many CGE models useful for studying <strong>where</strong> costs and benefits fall, especially for trade, tax and regional policy. CGE models may also be dynamic.</p></div></div>
+
+<h2 class="sectionhead">My contribution: a three-region DSGE model of the UK</h2>
+<div class="feature"><h3>North · South · Wales</h3><p>Building on Patrick Minford and co-authors' North–South framework, my research models Wales separately within a common UK economy. It links innovation-related costs, capital accumulation, housing, labour allocation, regional GDP and spillovers.</p><p>Parameters are estimated and selected regional relationships evaluated through indirect inference. Policy experiments compare Wales-targeted and UK-wide interventions, their dynamic paths, and how conclusions change with the policy objective.</p><p><strong>What the model adds:</strong> a regional, intertemporal laboratory for investigating heterogeneous responses—not an assertion that any one hypothetical tax or grant automatically generates the modelled effect.</p></div>
+
+<div class="callout"><h3>From international precedent to Welsh policy research</h3><p>Other institutions have demonstrated the value of structural modelling. The next opportunity is to connect an explicitly Welsh DSGE framework to well-defined policy instruments, realistic fiscal costs, behavioural evidence and further validation—complementing existing Welsh economic analysis.</p><a class="action" href="/policy/">Explore the Policy Studio</a><a class="action alt" href="mailto:Huangq24@cardiff.ac.uk?subject=Regional%20DSGE%20Policy%20Research">Discuss research collaboration</a></div>
+
+<h2 class="sectionhead">Further reading and methodological context</h2>
+<ol class="sources"><li>Scottish Government (2025), <a href="https://www.gov.scot/publications/modelling-long-run-economic-impacts-stylised-tariff-increase-technical-paper/">Modelling the long-run economic impacts of a stylised US tariff increase</a>.</li><li>European Commission, <a href="https://economy-finance.ec.europa.eu/publications/global-economy-version-quest-simulation-properties_en">A Global Economy Version of QUEST: Simulation Properties</a>.</li><li>European Commission Joint Research Centre, <a href="https://joint-research-centre.ec.europa.eu/tedam/rhomolo-web-application_en">RHOMOLO Web Application</a>.</li><li>Bank of England (2025), <a href="https://www.bankofengland.co.uk/macro-technical-paper/2025/decompositions-forecasts-and-scenarios-from-an-estimated-dsge-model-for-the-uk-economy">Decompositions, forecasts and scenarios from an estimated DSGE model for the UK economy</a>.</li><li>Federal Reserve Board, <a href="https://www.federalreserve.gov/econres/edo-models-about.htm">Estimated Dynamic Optimization (EDO) Model</a>.</li><li>IMF, <a href="https://www.imf.org/en/publications/wp/issues/2016/12/31/getting-to-know-gimf-the-simulation-properties-of-the-global-integrated-monetary-and-fiscal-40357">Getting to Know GIMF</a>.</li><li>European Commission JRC, <a href="https://joint-research-centre.ec.europa.eu/reports-and-technical-documentation/tfp-rd-and-semi-endogenous-growth-rhomolo_en">TFP, R&D and Semi-Endogenous Growth in RHOMOLO</a>.</li></ol>
 <details class="photo-credits">
-<summary>Cydnabyddiaethau ffotograffau</summary>
+<summary>Photo credits</summary>
 <ol>
-<li>Scottish Government: <a href="https://commons.wikimedia.org/wiki/File:St_Andrew%27s_House,_Edinburgh_(2496436039).jpg" rel="noopener noreferrer" target="_blank">Scottish Government</a> · <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener noreferrer" target="_blank">CC BY 2.0</a>. Dangosir y ddelwedd gyda thorri awtomatig ar gyfer y llun bach.</li>
-<li>European Commission: <a href="https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg" rel="noopener noreferrer" target="_blank">KenSwe72</a> · <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener noreferrer" target="_blank">CC BY 4.0</a>. Dangosir y ddelwedd gyda thorri awtomatig ar gyfer y llun bach.</li>
-<li>Jrc Rhomolo: <a href="https://commons.wikimedia.org/wiki/File:Main_entrance_of_the_Joint_Research_Centre_(JRC)_in_Ispra,_Italy.png" rel="noopener noreferrer" target="_blank">JRC-Visual-Communication</a> · <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener noreferrer" target="_blank">CC0 1.0</a>. Dangosir y ddelwedd gyda thorri awtomatig ar gyfer y llun bach.</li>
-<li>Bank Of England: <a href="https://commons.wikimedia.org/wiki/File:Bank_of_England_Facade.jpg" rel="noopener noreferrer" target="_blank">Michael C / Bacon Noodles</a> · <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener noreferrer" target="_blank">CC0 1.0</a>. Dangosir y ddelwedd gyda thorri awtomatig ar gyfer y llun bach.</li>
-<li>Federal Reserve: <a href="https://commons.wikimedia.org/wiki/File:Federal_Reserve.jpg" rel="noopener noreferrer" target="_blank">Dan Smith (Rdsmith4)</a> · <a href="https://creativecommons.org/licenses/by-sa/2.5/" rel="noopener noreferrer" target="_blank">CC BY-SA 2.5</a>. Dangosir y ddelwedd gyda thorri awtomatig ar gyfer y llun bach.</li>
-<li>Imf: <a href="https://commons.wikimedia.org/wiki/File:Headquarters_of_the_International_Monetary_Fund_(Washington,_DC).jpg" rel="noopener noreferrer" target="_blank">Rhyngwladol Monetary Fund</a> · <a href="https://commons.wikimedia.org/wiki/Commons:Licensing" rel="noopener noreferrer" target="_blank">Public domain</a>. Dangosir y ddelwedd gyda thorri awtomatig ar gyfer y llun bach.</li>
-<li>Ecb: <a href="https://commons.wikimedia.org/wiki/File:European_Central_Bank_building,_Frankfurt.jpg" rel="noopener noreferrer" target="_blank">acediscovery</a> · <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener noreferrer" target="_blank">CC BY 4.0</a>. Dangosir y ddelwedd gyda thorri awtomatig ar gyfer y llun bach.</li>
+<li>Scottish Government: <a href="https://commons.wikimedia.org/wiki/File:St_Andrew%27s_House,_Edinburgh_(2496436039).jpg" target="_blank" rel="noopener noreferrer">Scottish Government</a> · <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">CC BY 2.0</a>. Image displayed with automatic thumbnail cropping.</li>
+<li>European Commission: <a href="https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg" target="_blank" rel="noopener noreferrer">KenSwe72</a> · <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>. Image displayed with automatic thumbnail cropping.</li>
+<li>Jrc Rhomolo: <a href="https://commons.wikimedia.org/wiki/File:Main_entrance_of_the_Joint_Research_Centre_(JRC)_in_Ispra,_Italy.png" target="_blank" rel="noopener noreferrer">JRC-Visual-Communication</a> · <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener noreferrer">CC0 1.0</a>. Image displayed with automatic thumbnail cropping.</li>
+<li>Bank Of England: <a href="https://commons.wikimedia.org/wiki/File:Bank_of_England_Facade.jpg" target="_blank" rel="noopener noreferrer">Michael C / Bacon Noodles</a> · <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener noreferrer">CC0 1.0</a>. Image displayed with automatic thumbnail cropping.</li>
+<li>Federal Reserve: <a href="https://commons.wikimedia.org/wiki/File:Federal_Reserve.jpg" target="_blank" rel="noopener noreferrer">Dan Smith (Rdsmith4)</a> · <a href="https://creativecommons.org/licenses/by-sa/2.5/" target="_blank" rel="noopener noreferrer">CC BY-SA 2.5</a>. Image displayed with automatic thumbnail cropping.</li>
+<li>Imf: <a href="https://commons.wikimedia.org/wiki/File:Headquarters_of_the_International_Monetary_Fund_(Washington,_DC).jpg" target="_blank" rel="noopener noreferrer">International Monetary Fund</a> · <a href="https://commons.wikimedia.org/wiki/Commons:Licensing" target="_blank" rel="noopener noreferrer">Public domain</a>. Image displayed with automatic thumbnail cropping.</li>
+<li>Ecb: <a href="https://commons.wikimedia.org/wiki/File:European_Central_Bank_building,_Frankfurt.jpg" target="_blank" rel="noopener noreferrer">acediscovery</a> · <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>. Image displayed with automatic thumbnail cropping.</li>
 </ol>
 </details>
-<p class="note">Ymchwil academaidd annibynnol gan Qinhua Huang, Prifysgol Caerdydd. Nid yw’r enghreifftiau sefydliadol yn awgrymu cymeradwyaeth. Mae’r efelychiadau polisi yn rhai rhagarweiniol, yn amodol ar y model, ac nid ydynt yn rhagolygon swyddogol.</p>
+<p class="note">Independent academic research by Qinhua Huang, Cardiff University. Institutional examples do not imply endorsement. Policy simulations are preliminary, model-conditional and not official forecasts.</p>
 </div>
