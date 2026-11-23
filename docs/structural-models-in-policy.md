@@ -1,5 +1,9 @@
  
 <style>
+ /* Hide only the automatically generated page title */
+.md-content__inner > h1:first-child {
+    display: none !important;
+}
 .policy-showcase .note {
     font-size: 0.58rem !important;
     line-height: 1.4 !important;
