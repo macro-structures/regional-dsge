@@ -1,5 +1,29 @@
  
 <style>
+
+ .policy-showcase .hero {
+    padding: 1.1rem 1.5rem !important;
+}
+
+.policy-showcase .hero h2 {
+    font-size: 1.3rem !important;
+}
+
+.policy-showcase .hero p {
+    font-size: 0.73rem !important;
+}
+
+.policy-showcase .intro,
+.policy-showcase .sub {
+    font-size: 0.72rem !important;
+}
+
+.policy-showcase .sectionhead {
+    font-size: 0.95rem !important;
+}
+
+
+ 
  /* Hide only the automatically generated page title */
 .md-content__inner > h1:first-child {
     display: none !important;
