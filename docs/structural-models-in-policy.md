@@ -1,4 +1,3 @@
-# Structural Models in Public Policy
 
 
 <style>
