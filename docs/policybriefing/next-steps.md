@@ -259,9 +259,14 @@
       should we examine first?
     </h2>
 
-    <a href="../contact/" class="contact-button">
-      Discuss a Policy Question
+    
+    <a
+      href="mailto:Huangq24@cardiff.ac.uk?subject=Welsh%20Policy%20Research%20Collaboration"
+      class="contact-button"
+    >
+      Discuss a Research Collaboration
     </a>
+
 
     <p class="disclaimer">
       Independent academic research.
