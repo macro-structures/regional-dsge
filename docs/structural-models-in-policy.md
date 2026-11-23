@@ -1,6 +1,14 @@
-# Structural Models in Public Policy
-
+ 
 <style>
+.policy-showcase .note {
+    font-size: 0.58rem !important;
+    line-height: 1.4 !important;
+    color: #aaa !important;
+    opacity: 0.8;
+    border-top: none !important;
+    margin-top: 0.5rem !important;
+    padding-top: 0 !important;
+}
 .policy-showcase{--ink:#173246;--teal:#117c79;--muted:#566875;--line:#dce6e9;font-family:inherit;color:var(--md-default-fg-color)}
 .policy-showcase .hero{padding:clamp(1.5rem,4vw,3.2rem);border-radius:17px;background:linear-gradient(122deg,#123047 0%,#185064 54%,#147c77 100%);color:#fff;margin:0 0 1.8rem;box-shadow:0 14px 26px rgba(13,45,56,.13)}
 .policy-showcase .eyebrow{font-weight:750;font-size:.69rem;letter-spacing:.14em;text-transform:uppercase;color:#9de1dc;margin:0 0 .8rem}
@@ -61,11 +69,45 @@
 .policy-showcase .intro{font-size:.82rem!important;line-height:1.58!important}
 .policy-showcase .hero p{font-size:.85rem!important;line-height:1.55!important}
 .policy-showcase .hero h2{font-size:clamp(1.35rem,2.7vw,1.8rem)!important}
-.policy-showcase .photo-credits{margin:1.3rem 0 .8rem;font-size:.68rem;line-height:1.6;color:var(--md-default-fg-color--light)}
-.policy-showcase .photo-credits summary{cursor:pointer;font-size:.70rem;color:var(--md-default-fg-color--light)}
-.policy-showcase .photo-credits ol{padding-left:1.2rem;margin:.5rem 0}
-.policy-showcase .photo-credits li{margin:.3rem 0}
-.policy-showcase .photo-credits a{font-size:inherit}
+/* Minimal photo credits footer */
+.policy-showcase details.photo-credits {
+    margin: 0.5rem 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    font-size: 0.6rem !important;
+    color: #999 !important;
+}
+
+.policy-showcase details.photo-credits > summary {
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    font-size: 0.6rem !important;
+    font-weight: 400 !important;
+    color: #999 !important;
+    cursor: pointer;
+    list-style: none;
+}
+
+.policy-showcase details.photo-credits > summary::before {
+    display: none !important;
+}
+
+.policy-showcase .photo-credits ol {
+    padding-left: 1rem;
+    margin: 0.5rem 0;
+}
+
+.policy-showcase .photo-credits li,
+.policy-showcase .photo-credits a {
+    font-size: 0.6rem !important;
+    color: #999 !important;
+    line-height: 1.5;
+}
 .policy-showcase .note{font-size:.65rem!important;line-height:1.5!important;opacity:.72}
 </style>
 
@@ -163,7 +205,7 @@
 <h2 class="sectionhead">Further reading and methodological context</h2>
 <ol class="sources"><li>Scottish Government (2025), <a href="https://www.gov.scot/publications/modelling-long-run-economic-impacts-stylised-tariff-increase-technical-paper/">Modelling the long-run economic impacts of a stylised US tariff increase</a>.</li><li>European Commission, <a href="https://economy-finance.ec.europa.eu/publications/global-economy-version-quest-simulation-properties_en">A Global Economy Version of QUEST: Simulation Properties</a>.</li><li>European Commission Joint Research Centre, <a href="https://joint-research-centre.ec.europa.eu/tedam/rhomolo-web-application_en">RHOMOLO Web Application</a>.</li><li>Bank of England (2025), <a href="https://www.bankofengland.co.uk/macro-technical-paper/2025/decompositions-forecasts-and-scenarios-from-an-estimated-dsge-model-for-the-uk-economy">Decompositions, forecasts and scenarios from an estimated DSGE model for the UK economy</a>.</li><li>Federal Reserve Board, <a href="https://www.federalreserve.gov/econres/edo-models-about.htm">Estimated Dynamic Optimization (EDO) Model</a>.</li><li>IMF, <a href="https://www.imf.org/en/publications/wp/issues/2016/12/31/getting-to-know-gimf-the-simulation-properties-of-the-global-integrated-monetary-and-fiscal-40357">Getting to Know GIMF</a>.</li><li>European Commission JRC, <a href="https://joint-research-centre.ec.europa.eu/reports-and-technical-documentation/tfp-rd-and-semi-endogenous-growth-rhomolo_en">TFP, R&D and Semi-Endogenous Growth in RHOMOLO</a>.</li></ol>
 <details class="photo-credits">
-<summary>Photo credits and licences (Wikimedia Commons)</summary>
+<summary>Photo credits</summary>
 <ol>
 <li>Scottish Government: <a href="https://commons.wikimedia.org/wiki/File:St_Andrew%27s_House,_Edinburgh_(2496436039).jpg" target="_blank" rel="noopener noreferrer">Scottish Government</a> · <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">CC BY 2.0</a>. Image displayed with automatic thumbnail cropping.</li>
 <li>European Commission: <a href="https://commons.wikimedia.org/wiki/File:Berlaymont_building_Brussels.jpg" target="_blank" rel="noopener noreferrer">KenSwe72</a> · <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>. Image displayed with automatic thumbnail cropping.</li>
