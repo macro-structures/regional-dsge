@@ -337,24 +337,27 @@
 
     <div class="step">
 
-      <svg class="step-icon"
-           xmlns="http://www.w3.org/2000/svg"
-           viewBox="0 0 24 24"
-           fill="none"
-           stroke="currentColor"
-           stroke-width="1.8"
-           stroke-linecap="round"
-           stroke-linejoin="round"
-           aria-hidden="true">
+      
+    <svg class="step-icon"
+         xmlns="http://www.w3.org/2000/svg"
+         width="30"
+         height="30"
+         viewBox="0 0 24 24"
+         fill="none"
+         stroke="currentColor"
+         stroke-width="2"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         aria-hidden="true">
+    
+      <path d="m11 17 2 2a1 1 0 1 0 3-3"/>
+      <path d="m14 14 2.5 2.5a1 1 0 1 0 3-3l-3.88-3.88a3 3 0 0 0-4.24 0l-.88.88a1 1 0 1 1-3-3l2.81-2.81a5.79 5.79 0 0 1 7.06-.87l.47.28a2 2 0 0 0 1.42.25L21 4"/>
+      <path d="m21 3 1 11h-2"/>
+      <path d="M3 3 2 14l6.5 6.5a1 1 0 1 0 3-3"/>
+      <path d="M3 4h8"/>
+    
+    </svg>
 
-        <path d="m2 12 3.5 3.5a2 2 0 0 0 2.8 0l.7-.7"/>
-        <path d="m22 12-3.5 3.5a2 2 0 0 1-2.8 0l-4.6-4.6a2 2 0 0 0-2.8 0l-1.4 1.4a2 2 0 0 1-2.8-2.8l4.4-4.4a4 4 0 0 1 5.6 0l.9.9a4 4 0 0 0 5.6 0L22 5"/>
-        <path d="m2 5 2 2"/>
-        <path d="m22 5-2 2"/>
-        <path d="m10 16 2 2a2 2 0 0 0 2.8 0l.7-.7"/>
-        <path d="m13 13 3 3"/>
-
-      </svg>
 
       <h2>3. Apply</h2>
 
