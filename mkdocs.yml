@@ -23,6 +23,7 @@ nav:
   - Policy Lab: 
       - Interactive Policy Studio: policy/index.md
       - Policy Briefing: policybriefing/index.md
+      - Next Steps: policybriefing/next-steps.md
   - Teaching: teaching.md
   - Contact: contact.md
 
