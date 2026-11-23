@@ -1,5 +1,27 @@
 # Structural Models in Public Policy
+/* Smaller typography for institutional case studies */
+.policy-case h3,
+.policy-showcase .policy-case h3 {
+    font-size: 0.95rem !important;
+    line-height: 1.35 !important;
+}
 
+.policy-case p,
+.policy-showcase .policy-case p {
+    font-size: 0.78rem !important;
+    line-height: 1.55 !important;
+}
+
+.policy-case .case-meta,
+.policy-case .case-link {
+    font-size: 0.72rem !important;
+}
+
+/* Reduce space between cases */
+.policy-case {
+    padding: 0.8rem 0 !important;
+    gap: 1rem !important;
+}
 <style>
 .policy-showcase{--ink:#173246;--teal:#117c79;--muted:#566875;--line:#dce6e9;font-family:inherit;color:var(--md-default-fg-color)}
 .policy-showcase .hero{padding:clamp(1.5rem,4vw,3.2rem);border-radius:17px;background:linear-gradient(122deg,#123047 0%,#185064 54%,#147c77 100%);color:#fff;margin:0 0 1.8rem;box-shadow:0 14px 26px rgba(13,45,56,.13)}
