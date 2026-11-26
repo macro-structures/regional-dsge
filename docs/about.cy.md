@@ -51,11 +51,13 @@ Mae'r model yn cynnig fframwaith i archwilio sut y gall ymyriadau polisi cenedla
 
 **Tîm Goruchwylio**
 
-- Professor Patrick Minford
-- Professor Max Munday
-- Dr Zheyi Zhu
-- Dr Yue Gai
+ 
+- Yr Athro Patrick Minford
+- Yr Athro Max Munday
+- [Dr Zheyi Zhu](https://www.cardiffmet.ac.uk/staff/zheyi-zhu/) — *Darlithydd mewn Economeg, Prifysgol Metropolitan Caerdydd*
+- [Dr Yue Gai](https://www.swansea.ac.uk/staff/yue.gai/) — *Darlithydd mewn Economeg, Prifysgol Abertawe*
 
+ 
 ## Addysgu
 
 Rwy'n **Gymrawd yr Academi Addysg Uwch (FHEA)** ac yn diwtor economeg yn Ysgol Busnes Caerdydd.
