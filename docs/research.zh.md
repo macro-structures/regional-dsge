@@ -22,6 +22,7 @@
 工作论文和研究成果将陆续发布于此。
 
 
+<!--
 
 ## 学术报告与演讲
 
@@ -32,8 +33,24 @@
 
 [下载演讲幻灯片](assets/slides/Presentation_Wales_Innovation_Research_QinhuaHuang.pdf)
 
+第一行内容
+第二行内容
+第三行内容
+-->
 
 
+
+## 学术报告与政策交流
+
+部分学术报告及政策交流活动。
+
+**哪些下放权力能够释放威尔士的创新潜力？**
+
+**威尔士政府 · 2026年11月24日**
+
+*与威尔士政府首席经济学家及其同事进行研究汇报与政策交流。*
+
+[下载演讲幻灯片](assets/slides/Presentation_Wales_Innovation_Research_QinhuaHuang.pdf)
 
 
 ## 政策模拟
