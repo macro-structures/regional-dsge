@@ -54,9 +54,10 @@
 
 - Patrick Minford 教授
 - Max Munday 教授
-- [Zheyi Zhu 博士](https://www.cardiffmet.ac.uk/staff/zheyi-zhu/) — *卡迪夫城市大学经济学讲师*
-- [Yue Gai 博士](https://www.swansea.ac.uk/staff/yue.gai/) — *斯旺西大学经济学讲师*
-
+- Zheyi Zhu 博士 — *卡迪夫城市大学经济学讲师*
+- Yue Gai 博士 — *斯旺西大学经济学讲师*
+<!-- (https://www.cardiffmet.ac.uk/staff/zheyi-zhu/)  -->
+<!-- (https://www.swansea.ac.uk/staff/yue.gai/) -->
  
 ## 教学
 
