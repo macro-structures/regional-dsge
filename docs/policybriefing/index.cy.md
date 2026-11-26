@@ -8,6 +8,8 @@ Mae'r adran hon yn cyflwyno ymchwil polisi archwiliadol sy'n defnyddio model DSG
 
 **Qinhua Huang · Prifysgol Caerdydd · 16 Tachwedd 2026**
 
+*Cyflwynwyd a thrafodwyd y briff hwn mewn sesiwn friffio ymchwil gyda Phrif Economegydd Llywodraeth Cymru a'i gydweithwyr ar 24 Tachwedd 2026.*
+
 Mae'r briff dwy dudalen hwn yn archwilio sut mae siociau polisi sy'n ymwneud ag arloesi yn effeithio ar addasiadau economaidd rhanbarthol. Mae'n cymharu ymyriadau yng Nghymru yn unig ag ymyriadau ledled y DU o dan ragdybiaeth benodol am **gost gyllidol y flwyddyn gyntaf**. Mae'n trafod y cyfaddawd posibl rhwng **lleihau'r bwlch economaidd rhwng Cymru a rhanbarthau eraill** a **chynyddu cyfanswm allbwn y DU**.
 
 **Statws yr ymchwil:** Efelychiadau rhagarweiniol sy'n dibynnu ar ragdybiaethau'r model; nid rhagolygon swyddogol nac amcangyfrifon wedi'u dilysu o effaith polisi mohonynt.
