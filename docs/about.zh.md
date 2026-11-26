@@ -49,13 +49,15 @@
 
 [探索我的交互式区域政策模拟](policy/)。
 
-**导师团队**
+ 
+**博士指导团队**
 
-- Professor Patrick Minford
-- Professor Max Munday
-- Dr Zheyi Zhu
-- Dr Yue Gai
+- Patrick Minford 教授
+- Max Munday 教授
+- [Zheyi Zhu 博士](https://www.cardiffmet.ac.uk/staff/zheyi-zhu/) — *卡迪夫城市大学经济学讲师*
+- [Yue Gai 博士](https://www.swansea.ac.uk/staff/yue.gai/) — *斯旺西大学经济学讲师*
 
+ 
 ## 教学
 
 我拥有英国高等教育学会会士资格（FHEA），并在卡迪夫商学院担任经济学导师。
