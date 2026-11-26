@@ -56,7 +56,7 @@ Selected academic presentations and policy engagement activities.
 
 *Research presentation and policy discussion with the Welsh Government’s Chief Economist and colleagues.*
 
-[Download Presentation Slides ](assets/slides/Presentation_Wales_Innovation_Research_QinhuaHuang.pdf)
+[**Download Presentation Slides (PDF)**](assets/slides/Presentation_Wales_Innovation_Research_QinhuaHuang.pdf)
 
 
 
