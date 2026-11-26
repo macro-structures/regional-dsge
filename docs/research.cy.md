@@ -47,7 +47,7 @@ Cyflwyniadau academaidd dethol a gweithgareddau ymgysylltu â pholisi.
 
 *Cyflwyniad ymchwil a thrafodaeth bolisi gyda Phrif Economegydd Llywodraeth Cymru a'i gydweithwyr.*
 
-[Lawrlwytho'r Sleidiau ](assets/slides/Presentation_Wales_Innovation_Research_QinhuaHuang.pdf)
+[**Lawrlwytho'r Sleidiau (PDF)**](assets/slides/Presentation_Wales_Innovation_Research_QinhuaHuang.pdf)
 
 
 
