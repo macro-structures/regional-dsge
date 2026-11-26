@@ -50,7 +50,7 @@
 
 *与威尔士政府首席经济学家及其同事进行研究汇报与政策交流。*
 
-[下载演讲幻灯片](assets/slides/Presentation_Wales_Innovation_Research_QinhuaHuang.pdf)
+[**下载演讲幻灯片(PDF)**](assets/slides/Presentation_Wales_Innovation_Research_QinhuaHuang.pdf)
 
 
 ## 政策模拟
