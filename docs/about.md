@@ -52,10 +52,13 @@ The model provides a framework for exploring how national and devolved policy in
 
 **Supervisory Team**
 
+ 
+
 - Professor Patrick Minford
 - Professor Max Munday
-- Dr Zheyi Zhu
-- Dr Yue Gai
+- [Dr Zheyi Zhu](https://www.cardiffmet.ac.uk/staff/zheyi-zhu/) — *Lecturer in Economics, Cardiff Metropolitan University*
+- [Dr Yue Gai](https://www.swansea.ac.uk/staff/yue.gai/) — *Lecturer in Economics, Swansea University*
+ 
 
 ## Teaching
 
