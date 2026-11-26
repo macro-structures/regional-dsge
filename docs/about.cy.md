@@ -54,9 +54,10 @@ Mae'r model yn cynnig fframwaith i archwilio sut y gall ymyriadau polisi cenedla
  
 - Yr Athro Patrick Minford
 - Yr Athro Max Munday
-- [Dr Zheyi Zhu](https://www.cardiffmet.ac.uk/staff/zheyi-zhu/) — *Darlithydd mewn Economeg, Prifysgol Metropolitan Caerdydd*
-- [Dr Yue Gai](https://www.swansea.ac.uk/staff/yue.gai/) — *Darlithydd mewn Economeg, Prifysgol Abertawe*
-
+- Dr Zheyi Zhu — *Darlithydd mewn Economeg, Prifysgol Metropolitan Caerdydd*
+- Dr Yue Gai — *Darlithydd mewn Economeg, Prifysgol Abertawe*
+<!-- (https://www.cardiffmet.ac.uk/staff/zheyi-zhu/) -->
+<!-- (https://www.swansea.ac.uk/staff/yue.gai/) -->
  
 ## Addysgu
 
