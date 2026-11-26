@@ -29,6 +29,7 @@ Working papers and research outputs will be added here.
 
 
 
+<!--
 
 ## Presentations & Talks
 
@@ -38,11 +39,24 @@ Selected academic and policy presentations.
 Research Briefing · November 2026
 
 [Download Presentation Slides ](assets/slides/Presentation_Wales_Innovation_Research_QinhuaHuang.pdf)
+第一行内容
+第二行内容
+第三行内容
+-->
 
 
 
+## Presentations & Policy Engagement
 
+Selected academic presentations and policy engagement activities.
 
+**Which Devolution Powers Can Unlock Wales's Innovation Potential?**
+
+**Welsh Government · 24 November 2026**
+
+*Research presentation and policy discussion with the Welsh Government’s Chief Economist and colleagues.*
+
+[Download Presentation Slides ](assets/slides/Presentation_Wales_Innovation_Research_QinhuaHuang.pdf)
 
 
 
