@@ -9,6 +9,8 @@ Exploratory policy research using a three-region DSGE model of North, South and 
 
 **Qinhua Huang · Cardiff University · 16 November 2026**
 
+*Presented and discussed at a research briefing with the Welsh Government’s Chief Economist and colleagues on 24 November 2026.*
+
 This two-page briefing explores how innovation-related policy shocks affect regional economic adjustment, comparing Wales-only and UK-wide interventions under a specified first-year fiscal-cost assumption. It examines the trade-off between Welsh economic convergence and aggregate UK output.
 
 **Research status:** Preliminary, model-conditional simulations; not official forecasts or validated policy impact estimates.
